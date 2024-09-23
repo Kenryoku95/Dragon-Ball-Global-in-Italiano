@@ -3,7 +3,7 @@
     "table_data" : {
       "text" : [ {
         "@id" : "1",
-        "$" : "I can assist you in your travels, [user]. Please select where you want to go."
+        "$" : "I can assist you in your viaggi, [user]. Please select where you want to go."
       }, {
         "@id" : "2",
         "$" : "Head to the Fort Entrance of Yahoi West"
