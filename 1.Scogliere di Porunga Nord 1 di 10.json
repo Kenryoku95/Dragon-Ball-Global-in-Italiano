@@ -1,4 +1,7 @@
 {
+  "table" : {
+    "table_data" : {
+      "text" : [ {
         "@id" : "1",
         "$" : "I can assist you in your travels, [user]. Please select where you want to go."
       }, {
@@ -2006,4 +2009,7 @@
         "$" : "[metatag = 5]70"
       }, {
         "@id" : "1713"
-      }
+            } ]
+    }
+  }
+}
