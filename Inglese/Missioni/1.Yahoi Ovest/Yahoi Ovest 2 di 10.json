@@ -1,0 +1,3012 @@
+{
+  "table" : {
+    "table_data" : {
+      "text" : [ {
+        "@id" : "2001",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "2002",
+        "$" : "[metatag = 5]New [Etc = \"6010\"] Teacher"
+      }, {
+        "@id" : "2003",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "2004",
+        "$" : "[metatag = 5]Go and say hello to [npc = \"7091101\"]."
+      }, {
+        "@id" : "2005",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "2006"
+      }, {
+        "@id" : "2007",
+        "$" : "[metatag = 5]Did you say hello to the teacher?"
+      }, {
+        "@id" : "2008",
+        "$" : "[metatag = 5]Now that you have become an adventurer, you should go to study with other teachers.[br]I told top [etc = \"6010\"] [npc = \"7091101\"]  about you, so go and have a look.[br]Greet him, and tell him a little about yourself."
+      }, {
+        "@id" : "2009",
+        "$" : "[metatag = 5]Don't forget to be honest."
+      }, {
+        "@id" : "2010"
+      }, {
+        "@id" : "2011",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "2012",
+        "$" : "[metatag = 5]50"
+      }, {
+        "@id" : "2013"
+      }, {
+        "@id" : "2014",
+        "$" : "[metatag = 5]Ah! you must be the young [etc = \"6010\"] I have been waiting for![br]So you want to train in the sophisticated martial arts career huh![br]To prevent the crisis on Earth, and develop your talent further![br]I as a [etc = \"6010\"] will not force you to become strong off course![br][br]But I would advise you to.[br]I am always here to help you! Just keep practising and you will see a big change!"
+      }, {
+        "@id" : "2015"
+      }, {
+        "@id" : "2016"
+      }, {
+        "@id" : "2017"
+      }, {
+        "@id" : "2018"
+      }, {
+        "@id" : "2019"
+      }, {
+        "@id" : "2020"
+      }, {
+        "@id" : "2021"
+      }, {
+        "@id" : "2022"
+      }, {
+        "@id" : "2023"
+      }, {
+        "@id" : "2024"
+      }, {
+        "@id" : "2025"
+      }, {
+        "@id" : "2026"
+      }, {
+        "@id" : "2027"
+      }, {
+        "@id" : "2028"
+      }, {
+        "@id" : "2029"
+      }, {
+        "@id" : "2030"
+      }, {
+        "@id" : "2031"
+      }, {
+        "@id" : "2032"
+      }, {
+        "@id" : "2033"
+      }, {
+        "@id" : "2034"
+      }, {
+        "@id" : "2035"
+      }, {
+        "@id" : "2036"
+      }, {
+        "@id" : "2037"
+      }, {
+        "@id" : "2038"
+      }, {
+        "@id" : "2039"
+      }, {
+        "@id" : "2040"
+      }, {
+        "@id" : "2041"
+      }, {
+        "@id" : "2042"
+      }, {
+        "@id" : "2043"
+      }, {
+        "@id" : "2044"
+      }, {
+        "@id" : "2045"
+      }, {
+        "@id" : "2046"
+      }, {
+        "@id" : "2047"
+      }, {
+        "@id" : "2048"
+      }, {
+        "@id" : "2049"
+      }, {
+        "@id" : "2101",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "2102",
+        "$" : "[metatag = 5]Meet [etc = \"6011\"] for the first time"
+      }, {
+        "@id" : "2103",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "2104",
+        "$" : "[metatag = 5]Go and greet [npc = \"3331101\"]."
+      }, {
+        "@id" : "2105",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "2106"
+      }, {
+        "@id" : "2107",
+        "$" : "[metatag = 5]Did you say hello to the teacher?"
+      }, {
+        "@id" : "2108",
+        "$" : "[metatag = 5]Did you greet [etc = \"6011\"] master [npc = \"3331101\"] yet?[br]At first glance, he might look intimidating, but in fact he is a great master.[br]go on don't be afraid."
+      }, {
+        "@id" : "2109",
+        "$" : "[metatag = 5]Please help me, friend. I need you to listen carefully."
+      }, {
+        "@id" : "2110"
+      }, {
+        "@id" : "2111",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "2112",
+        "$" : "[metatag = 5]50"
+      }, {
+        "@id" : "2113"
+      }, {
+        "@id" : "2114",
+        "$" : "[Metatag = 5]Hey, are you the kid that the robot brought here?[br]Despite the loss of the village is a very regrettable thing, but do not get depressed.[br]You go help the villagers and become strong.[Br]Spiritualist masters at the same time learning close range attacks, will also learn to identify the weaknesses of the other technology, and will also learn the defensive skills. So you will keep getting stronger and stronger, but don't get impatient.. keep at it~[br]While you are helping others, listen to their opinions, which will also help you along your path~"
+      }, {
+        "@id" : "2115"
+      }, {
+        "@id" : "2116"
+      }, {
+        "@id" : "2117"
+      }, {
+        "@id" : "2118"
+      }, {
+        "@id" : "2119"
+      }, {
+        "@id" : "2120"
+      }, {
+        "@id" : "2121"
+      }, {
+        "@id" : "2122"
+      }, {
+        "@id" : "2123"
+      }, {
+        "@id" : "2124"
+      }, {
+        "@id" : "2125"
+      }, {
+        "@id" : "2126"
+      }, {
+        "@id" : "2127"
+      }, {
+        "@id" : "2128"
+      }, {
+        "@id" : "2129"
+      }, {
+        "@id" : "2130"
+      }, {
+        "@id" : "2131"
+      }, {
+        "@id" : "2132"
+      }, {
+        "@id" : "2133"
+      }, {
+        "@id" : "2134"
+      }, {
+        "@id" : "2135"
+      }, {
+        "@id" : "2136"
+      }, {
+        "@id" : "2137"
+      }, {
+        "@id" : "2138"
+      }, {
+        "@id" : "2139"
+      }, {
+        "@id" : "2140"
+      }, {
+        "@id" : "2141"
+      }, {
+        "@id" : "2142"
+      }, {
+        "@id" : "2143"
+      }, {
+        "@id" : "2144"
+      }, {
+        "@id" : "2145"
+      }, {
+        "@id" : "2146"
+      }, {
+        "@id" : "2147"
+      }, {
+        "@id" : "2148"
+      }, {
+        "@id" : "2149"
+      }, {
+        "@id" : "2201",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "2202",
+        "$" : "[metatag = 5]Make a good first imperssion for [etc = \"6012\"]"
+      }, {
+        "@id" : "2203",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "2204",
+        "$" : "[metatag = 5]Go and say hello to [npc = \"4041101\"]."
+      }, {
+        "@id" : "2205",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "2206"
+      }, {
+        "@id" : "2207",
+        "$" : "[metatag = 5]Did you greet the teacher yet?"
+      }, {
+        "@id" : "2208",
+        "$" : "[metatag = 5][npc = \"4041101\"] is not only beautiful, but she is also a great [etc = \"6012\"] skills teacher.[br]You go to see [npc = \"4041101\"], you will be very fond of her.[br]She might seem a little short-tempered, but she is a good master.[br]So go get to know her a little."
+      }, {
+        "@id" : "2209",
+        "$" : "do not see people send beautiful gift, should be good reading."
+      }, {
+        "@id" : "2210"
+      }, {
+        "@id" : "2211",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "2212"
+      }, {
+        "@id" : "2213"
+      }, {
+        "@id" : "2214",
+        "$" : "[Metatag = 5]Wow! You are the kid that [npc = \"4181101\"] was talking about?[br]Hi! I am [etc = \"6012\"] skills [npc = \"4181101\"]![br]We expertise in long-range attacks and can give others a lot of damage.[br]But you must become strategic on how to use your attacks. So you better pay attention.[br]For now help out the villagers, and train yourself in the process.[br]Soon you will get the hang of it!"
+      }, {
+        "@id" : "2215"
+      }, {
+        "@id" : "2216"
+      }, {
+        "@id" : "2217",
+        "$" : "@"
+      }, {
+        "@id" : "2218",
+        "$" : "@"
+      }, {
+        "@id" : "2219",
+        "$" : "@"
+      }, {
+        "@id" : "2220",
+        "$" : "@"
+      }, {
+        "@id" : "2221",
+        "$" : "@"
+      }, {
+        "@id" : "2222",
+        "$" : "@"
+      }, {
+        "@id" : "2223",
+        "$" : "@"
+      }, {
+        "@id" : "2224",
+        "$" : "@"
+      }, {
+        "@id" : "2225",
+        "$" : "@"
+      }, {
+        "@id" : "2226",
+        "$" : "@"
+      }, {
+        "@id" : "2227",
+        "$" : "@"
+      }, {
+        "@id" : "2228",
+        "$" : "@"
+      }, {
+        "@id" : "2229",
+        "$" : "@"
+      }, {
+        "@id" : "2230",
+        "$" : "@"
+      }, {
+        "@id" : "2231",
+        "$" : "@"
+      }, {
+        "@id" : "2232",
+        "$" : "@"
+      }, {
+        "@id" : "2233",
+        "$" : "@"
+      }, {
+        "@id" : "2234",
+        "$" : "@"
+      }, {
+        "@id" : "2235",
+        "$" : "@"
+      }, {
+        "@id" : "2236",
+        "$" : "@"
+      }, {
+        "@id" : "2237",
+        "$" : "@"
+      }, {
+        "@id" : "2238",
+        "$" : "@"
+      }, {
+        "@id" : "2239",
+        "$" : "@"
+      }, {
+        "@id" : "2240",
+        "$" : "@"
+      }, {
+        "@id" : "2241",
+        "$" : "@"
+      }, {
+        "@id" : "2242",
+        "$" : "@"
+      }, {
+        "@id" : "2243",
+        "$" : "@"
+      }, {
+        "@id" : "2244",
+        "$" : "@"
+      }, {
+        "@id" : "2245",
+        "$" : "@"
+      }, {
+        "@id" : "2246",
+        "$" : "@"
+      }, {
+        "@id" : "2247",
+        "$" : "@"
+      }, {
+        "@id" : "2248",
+        "$" : "@"
+      }, {
+        "@id" : "2249",
+        "$" : "@"
+      }, {
+        "@id" : "2301",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "2302",
+        "$" : "[Metatag = 5]Businessman [npc = \"8032101\"]"
+      }, {
+        "@id" : "2303",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "2304",
+        "$" : "[metatag = 5]Go meet [npc = \"8032101\"]."
+      }, {
+        "@id" : "2305",
+        "$" : "[metatag = 5]Storyline"
+      }, {
+        "@id" : "2306",
+        "$" : "@"
+      }, {
+        "@id" : "2307",
+        "$" : "[metatag = 5]Well, you have to adapt to the new world..."
+      }, {
+        "@id" : "2308",
+        "$" : "[metatag = 5]Recently the world seems rather strange hmm... Oh hello! [User] didn't see you there... any ways now that you are familiar with [place = \"100101100\"], go visit [place = \"100021\"].[br]Go to [Place = \"100021\"] and meet [npc = \"8032101\"] He will explain you what's going on in the world outside.[br][br][place = \"100101100\"] road leads straight to [place = \"100021\"].[br]The village is located near the sea, but travelling on foot will take a long time, taking a bus will be a much better choice."
+      }, {
+        "@id" : "2309",
+        "$" : "[Metatag = 5]Be careful on the way!"
+      }, {
+        "@id" : "2310",
+        "$" : "@"
+      }, {
+        "@id" : "2311",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "2312",
+        "$" : "[metatag = 5]500"
+      }, {
+        "@id" : "2313",
+        "$" : "@"
+      }, {
+        "@id" : "2314",
+        "$" : "[metatag = 5]Who the hell are you?... you say your name is [user]? I have never heard of you.[br]but you still look very determined to battle the red pants army yet you still have a long way to go ~."
+      }, {
+        "@id" : "2315",
+        "$" : "@"
+      }, {
+        "@id" : "2316",
+        "$" : "@"
+      }, {
+        "@id" : "2317",
+        "$" : "@"
+      }, {
+        "@id" : "2318",
+        "$" : "@"
+      }, {
+        "@id" : "2319",
+        "$" : "@"
+      }, {
+        "@id" : "2320",
+        "$" : "@"
+      }, {
+        "@id" : "2321",
+        "$" : "@"
+      }, {
+        "@id" : "2322",
+        "$" : "@"
+      }, {
+        "@id" : "2323",
+        "$" : "@"
+      }, {
+        "@id" : "2324",
+        "$" : "@"
+      }, {
+        "@id" : "2325",
+        "$" : "@"
+      }, {
+        "@id" : "2326",
+        "$" : "@"
+      }, {
+        "@id" : "2327",
+        "$" : "@"
+      }, {
+        "@id" : "2328",
+        "$" : "@"
+      }, {
+        "@id" : "2329",
+        "$" : "@"
+      }, {
+        "@id" : "2330",
+        "$" : "@"
+      }, {
+        "@id" : "2331",
+        "$" : "@"
+      }, {
+        "@id" : "2332",
+        "$" : "@"
+      }, {
+        "@id" : "2333",
+        "$" : "@"
+      }, {
+        "@id" : "2334",
+        "$" : "@"
+      }, {
+        "@id" : "2335",
+        "$" : "@"
+      }, {
+        "@id" : "2336",
+        "$" : "@"
+      }, {
+        "@id" : "2337",
+        "$" : "@"
+      }, {
+        "@id" : "2338",
+        "$" : "@"
+      }, {
+        "@id" : "2339",
+        "$" : "@"
+      }, {
+        "@id" : "2340",
+        "$" : "@"
+      }, {
+        "@id" : "2341",
+        "$" : "@"
+      }, {
+        "@id" : "2342",
+        "$" : "@"
+      }, {
+        "@id" : "2343",
+        "$" : "@"
+      }, {
+        "@id" : "2344",
+        "$" : "@"
+      }, {
+        "@id" : "2345",
+        "$" : "@"
+      }, {
+        "@id" : "2346",
+        "$" : "@"
+      }, {
+        "@id" : "2347",
+        "$" : "@"
+      }, {
+        "@id" : "2348",
+        "$" : "@"
+      }, {
+        "@id" : "2349",
+        "$" : "@"
+      }, {
+        "@id" : "2401",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "2402",
+        "$" : "[metatag = 5]Look for [npc = 8031501] on the way."
+      }, {
+        "@id" : "2403",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "2404",
+        "$" : "[metatag = 5]Avoid [etc = 10014] and go find [npc = 8031501]."
+      }, {
+        "@id" : "2405",
+        "$" : "[metatag = 5]Storyline"
+      }, {
+        "@id" : "2406",
+        "$" : "@"
+      }, {
+        "@id" : "2407",
+        "$" : "[Metatag = 5]Umm.... I got some useful info...."
+      }, {
+        "@id" : "2408",
+        "$" : "[metatag = 5]Now a days [etc = \"10014\"] is a hot topic, every one is discussing about them.[br]Weird how all the animals are acting like humans wandering around wearing [etc = \"10014\"] uniform.[br]Heading east from here, you will reach [place = \"100101012\"], where [etc = \"10014\"] could possibly have kidnapped the children.[br]For more information go talk to [npc = \"8031501\"], okay?[br]If you want to meet [npc = \"8031501\"], follow the road to the east.[br]Not that far so you should be fine, but try to avoid [etc = \"10014\"] on the way."
+      }, {
+        "@id" : "2409",
+        "$" : "[metatag = 5]Hehe. That's okay. Its just a little dangerous."
+      }, {
+        "@id" : "2410",
+        "$" : "@"
+      }, {
+        "@id" : "2411",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "2412",
+        "$" : "[metatag = 5]1230"
+      }, {
+        "@id" : "2413",
+        "$" : "@"
+      }, {
+        "@id" : "2414",
+        "$" : "[metatag = 5]You come to see me? How did you manage to make it to here?[br]Amazing at such a young age, and not afraid at all."
+      }, {
+        "@id" : "2415",
+        "$" : "@"
+      }, {
+        "@id" : "2416",
+        "$" : "@"
+      }, {
+        "@id" : "2417",
+        "$" : "@"
+      }, {
+        "@id" : "2418",
+        "$" : "@"
+      }, {
+        "@id" : "2419",
+        "$" : "@"
+      }, {
+        "@id" : "2420",
+        "$" : "@"
+      }, {
+        "@id" : "2421",
+        "$" : "@"
+      }, {
+        "@id" : "2422",
+        "$" : "@"
+      }, {
+        "@id" : "2423",
+        "$" : "@"
+      }, {
+        "@id" : "2424",
+        "$" : "@"
+      }, {
+        "@id" : "2425",
+        "$" : "@"
+      }, {
+        "@id" : "2426",
+        "$" : "@"
+      }, {
+        "@id" : "2427",
+        "$" : "@"
+      }, {
+        "@id" : "2428",
+        "$" : "@"
+      }, {
+        "@id" : "2429",
+        "$" : "@"
+      }, {
+        "@id" : "2430",
+        "$" : "@"
+      }, {
+        "@id" : "2431",
+        "$" : "@"
+      }, {
+        "@id" : "2432",
+        "$" : "@"
+      }, {
+        "@id" : "2433",
+        "$" : "@"
+      }, {
+        "@id" : "2434",
+        "$" : "@"
+      }, {
+        "@id" : "2435",
+        "$" : "@"
+      }, {
+        "@id" : "2436",
+        "$" : "@"
+      }, {
+        "@id" : "2437",
+        "$" : "@"
+      }, {
+        "@id" : "2438",
+        "$" : "@"
+      }, {
+        "@id" : "2439",
+        "$" : "@"
+      }, {
+        "@id" : "2440",
+        "$" : "@"
+      }, {
+        "@id" : "2441",
+        "$" : "@"
+      }, {
+        "@id" : "2442",
+        "$" : "@"
+      }, {
+        "@id" : "2443",
+        "$" : "@"
+      }, {
+        "@id" : "2444",
+        "$" : "@"
+      }, {
+        "@id" : "2445",
+        "$" : "@"
+      }, {
+        "@id" : "2446",
+        "$" : "@"
+      }, {
+        "@id" : "2447",
+        "$" : "@"
+      }, {
+        "@id" : "2448",
+        "$" : "@"
+      }, {
+        "@id" : "2449",
+        "$" : "@"
+      }, {
+        "@id" : "2501",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "2502",
+        "$" : "[metatag = 5]Information about [etc = \"10014\"]"
+      }, {
+        "@id" : "2503",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "2504",
+        "$" : "[Metatag 5]Inform [npc = \"8032101\"] about [etc = \"10014\"]."
+      }, {
+        "@id" : "2505",
+        "$" : "[metatag = 5]Storyline"
+      }, {
+        "@id" : "2506",
+        "$" : "@"
+      }, {
+        "@id" : "2507",
+        "$" : "[metatag = 5]When it comes to [etc = \"10014\"]...."
+      }, {
+        "@id" : "2508",
+        "$" : "[metatag = 5]You want information on [etc = \"10014\"]?[br]Well... [place = \"100101012\"] is where you would find most information.[br]As this is their precious hideout. But [etc = \"10014\"] slowly started to expand everywhere.[br]As you can see there are many of them near the villages.[br][etc = \"10014\"] are really a troublesome bunch.[br]Now that you know how troublesome they are, will you come back? its Very dangerous here.[br]You still think it is safe?[br][npc = \"8032101\"] should not have sent a kid here... but I guess you are strong."
+      }, {
+        "@id" : "2509",
+        "$" : "[metatag = 5]It's very dangerous out, get back safe you hear?"
+      }, {
+        "@id" : "2510",
+        "$" : "@"
+      }, {
+        "@id" : "2511",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "2512",
+        "$" : "[metatag = 5]1230"
+      }, {
+        "@id" : "2513",
+        "$" : "@"
+      }, {
+        "@id" : "2514",
+        "$" : "[metatag = 5][npc = \"8031501\"] sent you back?[br]Hmm that place was just ruins before however, now it is under construction....[br][etc = \"10014\"] seems to have a connection with [etc = \"10539\"] who is helping them out by contacting them through [etc = \"3195\"].[br][user] I am sorry to waste your time, as a token of appreciation I will give you a reward. Hope you like it!"
+      }, {
+        "@id" : "2515",
+        "$" : "@"
+      }, {
+        "@id" : "2516",
+        "$" : "@"
+      }, {
+        "@id" : "2517",
+        "$" : "@"
+      }, {
+        "@id" : "2518",
+        "$" : "@"
+      }, {
+        "@id" : "2519",
+        "$" : "@"
+      }, {
+        "@id" : "2520",
+        "$" : "@"
+      }, {
+        "@id" : "2521",
+        "$" : "@"
+      }, {
+        "@id" : "2522",
+        "$" : "@"
+      }, {
+        "@id" : "2523",
+        "$" : "@"
+      }, {
+        "@id" : "2524",
+        "$" : "@"
+      }, {
+        "@id" : "2525",
+        "$" : "@"
+      }, {
+        "@id" : "2526",
+        "$" : "@"
+      }, {
+        "@id" : "2527",
+        "$" : "@"
+      }, {
+        "@id" : "2528",
+        "$" : "@"
+      }, {
+        "@id" : "2529",
+        "$" : "@"
+      }, {
+        "@id" : "2530",
+        "$" : "@"
+      }, {
+        "@id" : "2531",
+        "$" : "@"
+      }, {
+        "@id" : "2532",
+        "$" : "@"
+      }, {
+        "@id" : "2533",
+        "$" : "@"
+      }, {
+        "@id" : "2534",
+        "$" : "@"
+      }, {
+        "@id" : "2535",
+        "$" : "@"
+      }, {
+        "@id" : "2536",
+        "$" : "@"
+      }, {
+        "@id" : "2537",
+        "$" : "@"
+      }, {
+        "@id" : "2538",
+        "$" : "@"
+      }, {
+        "@id" : "2539",
+        "$" : "@"
+      }, {
+        "@id" : "2540",
+        "$" : "@"
+      }, {
+        "@id" : "2541",
+        "$" : "@"
+      }, {
+        "@id" : "2542",
+        "$" : "@"
+      }, {
+        "@id" : "2543",
+        "$" : "@"
+      }, {
+        "@id" : "2544",
+        "$" : "@"
+      }, {
+        "@id" : "2545",
+        "$" : "@"
+      }, {
+        "@id" : "2546",
+        "$" : "@"
+      }, {
+        "@id" : "2547",
+        "$" : "@"
+      }, {
+        "@id" : "2548",
+        "$" : "@"
+      }, {
+        "@id" : "2549",
+        "$" : "@"
+      }, {
+        "@id" : "2601",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "2602",
+        "$" : "[metatag = 5][mob = \"4912104\"]'s Tooth"
+      }, {
+        "@id" : "2603",
+        "$" : "[metatag = 5]2"
+      }, {
+        "@id" : "2604",
+        "$" : "[metatag = 5]Attack [mob = \"4912104\"]."
+      }, {
+        "@id" : "2605",
+        "$" : "[metatag = 5]Storyline"
+      }, {
+        "@id" : "2606",
+        "$" : "@"
+      }, {
+        "@id" : "2607",
+        "$" : "[metatag = 5]Heard you want revenge hmmm. I can help you."
+      }, {
+        "@id" : "2608",
+        "$" : "[metatag = 5]I have heard a lot about you [user].[br]I heard your village was attacked, and you want revenge, if so you have to become stronger.[br]The way to do that is keep training.[br]Animals here took some [etc = \"3024\"] and now they are quite violent. I want to investigate but I am too busy.[br]You are not so busy are you [user]?[br]hunt these animals and you and you will also be training yourself to fight, \"two birds with one stone.\"[br]So catch [mob = \"4912104\"], and give [questItem = \"453\"] to me."
+      }, {
+        "@id" : "2609",
+        "$" : "[metatag = 5][user] I know, you will become strong."
+      }, {
+        "@id" : "2610",
+        "$" : "@"
+      }, {
+        "@id" : "2611",
+        "$" : "[metatag = 5]3"
+      }, {
+        "@id" : "2612",
+        "$" : "[metatag = 5]500"
+      }, {
+        "@id" : "2613",
+        "$" : "@"
+      }, {
+        "@id" : "2614",
+        "$" : "[metatag = 5]Woah I cant believe you managed to do it [user].[br]This made my life easy.[br]As [mob = \"4912104\"] was blocking the sea. [user] you caught a lot of [mob = \"4912104\"]s. Finally I will be able to take water to the village.[br]Thank you. I am so happy now."
+      }, {
+        "@id" : "2615",
+        "$" : "[metatag = 5]Great Jerboa"
+      }, {
+        "@id" : "2616",
+        "$" : "@"
+      }, {
+        "@id" : "2617",
+        "$" : "@"
+      }, {
+        "@id" : "2618",
+        "$" : "@"
+      }, {
+        "@id" : "2619",
+        "$" : "@"
+      }, {
+        "@id" : "2620",
+        "$" : "@"
+      }, {
+        "@id" : "2621",
+        "$" : "@"
+      }, {
+        "@id" : "2622",
+        "$" : "@"
+      }, {
+        "@id" : "2623",
+        "$" : "@"
+      }, {
+        "@id" : "2624",
+        "$" : "@"
+      }, {
+        "@id" : "2625",
+        "$" : "@"
+      }, {
+        "@id" : "2626",
+        "$" : "@"
+      }, {
+        "@id" : "2627",
+        "$" : "@"
+      }, {
+        "@id" : "2628",
+        "$" : "@"
+      }, {
+        "@id" : "2629",
+        "$" : "@"
+      }, {
+        "@id" : "2630",
+        "$" : "@"
+      }, {
+        "@id" : "2631",
+        "$" : "@"
+      }, {
+        "@id" : "2632",
+        "$" : "@"
+      }, {
+        "@id" : "2633",
+        "$" : "@"
+      }, {
+        "@id" : "2634",
+        "$" : "@"
+      }, {
+        "@id" : "2635",
+        "$" : "@"
+      }, {
+        "@id" : "2636",
+        "$" : "@"
+      }, {
+        "@id" : "2637",
+        "$" : "@"
+      }, {
+        "@id" : "2638",
+        "$" : "@"
+      }, {
+        "@id" : "2639",
+        "$" : "@"
+      }, {
+        "@id" : "2640",
+        "$" : "@"
+      }, {
+        "@id" : "2641",
+        "$" : "@"
+      }, {
+        "@id" : "2642",
+        "$" : "@"
+      }, {
+        "@id" : "2643",
+        "$" : "@"
+      }, {
+        "@id" : "2644",
+        "$" : "@"
+      }, {
+        "@id" : "2645",
+        "$" : "@"
+      }, {
+        "@id" : "2646",
+        "$" : "@"
+      }, {
+        "@id" : "2647",
+        "$" : "@"
+      }, {
+        "@id" : "2648",
+        "$" : "@"
+      }, {
+        "@id" : "2649",
+        "$" : "@"
+      }, {
+        "@id" : "2701",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "2702",
+        "$" : "[metatag = 5]Can you harvest [object = \"127\"]?"
+      }, {
+        "@id" : "2703",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "2704",
+        "$" : "[metatag = 5]Collect [object = \"127\"] and come back."
+      }, {
+        "@id" : "2705",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "2706",
+        "$" : "@"
+      }, {
+        "@id" : "2707",
+        "$" : "[metatag = 5]Hey kid [user] you listening right?"
+      }, {
+        "@id" : "2708",
+        "$" : "[metatag = 5]I really like [object = \"127\"] made stew, although it makes a big mess... any ways I have very few [object = \"127\"] left.[br][user] I heard you often go outside the village?[br]So when you go outside again, can you pick a few [object = \"127\"] for me?"
+      }, {
+        "@id" : "2709",
+        "$" : "[metatag = 5]Make sure to come back~"
+      }, {
+        "@id" : "2710",
+        "$" : "@"
+      }, {
+        "@id" : "2711",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "2712",
+        "$" : "[metatag = 5]500"
+      }, {
+        "@id" : "2713",
+        "$" : "@"
+      }, {
+        "@id" : "2714",
+        "$" : "[metatag = 5]Wow, thanks a lot.[br][user] you are a very capable kid![br]I will remember to tell about you at [place = \"100101100\"], now I will get busy.[br]Thank you, really thank you very much."
+      }, {
+        "@id" : "2715",
+        "$" : "[metatag = 5]Wild herbs"
+      }, {
+        "@id" : "2716",
+        "$" : "@"
+      }, {
+        "@id" : "2717",
+        "$" : "@"
+      }, {
+        "@id" : "2718",
+        "$" : "[metatag = 5]I found some wild vegetables. They look delicious!"
+      }, {
+        "@id" : "2719",
+        "$" : "[Metatag = 5]These are wild herbs, aren't they?"
+      }, {
+        "@id" : "2720",
+        "$" : "@"
+      }, {
+        "@id" : "2721",
+        "$" : "@"
+      }, {
+        "@id" : "2722",
+        "$" : "@"
+      }, {
+        "@id" : "2723",
+        "$" : "@"
+      }, {
+        "@id" : "2724",
+        "$" : "@"
+      }, {
+        "@id" : "2725",
+        "$" : "@"
+      }, {
+        "@id" : "2726",
+        "$" : "@"
+      }, {
+        "@id" : "2727",
+        "$" : "@"
+      }, {
+        "@id" : "2728",
+        "$" : "@"
+      }, {
+        "@id" : "2729",
+        "$" : "@"
+      }, {
+        "@id" : "2730",
+        "$" : "@"
+      }, {
+        "@id" : "2731",
+        "$" : "@"
+      }, {
+        "@id" : "2732",
+        "$" : "@"
+      }, {
+        "@id" : "2733",
+        "$" : "@"
+      }, {
+        "@id" : "2734",
+        "$" : "@"
+      }, {
+        "@id" : "2735",
+        "$" : "@"
+      }, {
+        "@id" : "2736",
+        "$" : "@"
+      }, {
+        "@id" : "2737",
+        "$" : "@"
+      }, {
+        "@id" : "2738",
+        "$" : "@"
+      }, {
+        "@id" : "2739",
+        "$" : "@"
+      }, {
+        "@id" : "2740",
+        "$" : "@"
+      }, {
+        "@id" : "2741",
+        "$" : "@"
+      }, {
+        "@id" : "2742",
+        "$" : "@"
+      }, {
+        "@id" : "2743",
+        "$" : "@"
+      }, {
+        "@id" : "2744",
+        "$" : "@"
+      }, {
+        "@id" : "2745",
+        "$" : "@"
+      }, {
+        "@id" : "2746",
+        "$" : "@"
+      }, {
+        "@id" : "2747",
+        "$" : "@"
+      }, {
+        "@id" : "2748",
+        "$" : "@"
+      }, {
+        "@id" : "2749",
+        "$" : "@"
+      }, {
+        "@id" : "2801",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "2802",
+        "$" : "[metatag = 5]Jack's drawing drama"
+      }, {
+        "@id" : "2803",
+        "$" : "[metatag = 5]3"
+      }, {
+        "@id" : "2804",
+        "$" : "[metatag = 5]Attack [mob = \"1414113\"] and bring back [questItem = \"11\"]."
+      }, {
+        "@id" : "2805",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "2806",
+        "$" : "@"
+      }, {
+        "@id" : "2807",
+        "$" : "[metatag = 5]Hey, you! Do you have a little time?"
+      }, {
+        "@id" : "2808",
+        "$" : "[metatag = 5]Ah, I am in a bit of trouble here[br]Some [mob = \"1414113\"], stole my drama climax part at the [place = \"1000005\"].[br]I can't go there any more because of the terrible stench that beach has.[br]Ever heard the name [npc = \"3611101\"]?[br]Well, you don't really know much do ya![br]I was once a rebel... a Freedom-loving bard.[br]Recently staged [etc = \"3003\"] drama, it is quite popular.[br][br]Hey! You want to see it? well you must![br]But first I would like you to go and fight [mob = \"1414113\"] there, find [questItem = \"11\"] then come back to me.[br]Back in my days [place = \"1000005\"] was a popular beach.[br]But because of the mixture between oil and gas, it turned into a place full of monsters like [mob = \"1414113\"] and the beach was abandoned.[br]Go there to fight those guys now! it will take you a long time, but I will make it worth the while!"
+      }, {
+        "@id" : "2809",
+        "$" : "[metatag = 5]Come back to me, and I'll let you see the best of drama!"
+      }, {
+        "@id" : "2810",
+        "$" : "@"
+      }, {
+        "@id" : "2811",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "2812",
+        "$" : "[metatag = 5]660"
+      }, {
+        "@id" : "2813",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "2814",
+        "$" : "[metatag = 5]I thank you for fighting that poisonous monster.[br]Now I'll make use of the material.[br]Then begin the drama![br]The play is based on the past of [place = \"100101000\"] from long ago, a legend retold for generations.[br]Back then, there was an extraordinary teenager from [place = \"100101000\"], a martial artist. It is said he swam to the other side of the planet.[br]Also, he had a tail... But that is enough information for now!"
+      }, {
+        "@id" : "2815",
+        "$" : "[metatag = 5]Shark Skin Saibaman"
+      }, {
+        "@id" : "2816",
+        "$" : "@"
+      }, {
+        "@id" : "2817",
+        "$" : "@"
+      }, {
+        "@id" : "2818",
+        "$" : "@"
+      }, {
+        "@id" : "2819",
+        "$" : "@"
+      }, {
+        "@id" : "2820",
+        "$" : "@"
+      }, {
+        "@id" : "2821",
+        "$" : "@"
+      }, {
+        "@id" : "2822",
+        "$" : "@"
+      }, {
+        "@id" : "2823",
+        "$" : "@"
+      }, {
+        "@id" : "2824",
+        "$" : "@"
+      }, {
+        "@id" : "2825",
+        "$" : "@"
+      }, {
+        "@id" : "2826",
+        "$" : "@"
+      }, {
+        "@id" : "2827",
+        "$" : "@"
+      }, {
+        "@id" : "2828",
+        "$" : "@"
+      }, {
+        "@id" : "2829",
+        "$" : "@"
+      }, {
+        "@id" : "2830",
+        "$" : "@"
+      }, {
+        "@id" : "2831",
+        "$" : "@"
+      }, {
+        "@id" : "2832",
+        "$" : "@"
+      }, {
+        "@id" : "2833",
+        "$" : "@"
+      }, {
+        "@id" : "2834",
+        "$" : "@"
+      }, {
+        "@id" : "2835",
+        "$" : "@"
+      }, {
+        "@id" : "2836",
+        "$" : "@"
+      }, {
+        "@id" : "2837",
+        "$" : "@"
+      }, {
+        "@id" : "2838",
+        "$" : "@"
+      }, {
+        "@id" : "2839",
+        "$" : "@"
+      }, {
+        "@id" : "2840",
+        "$" : "@"
+      }, {
+        "@id" : "2841",
+        "$" : "@"
+      }, {
+        "@id" : "2842",
+        "$" : "@"
+      }, {
+        "@id" : "2843",
+        "$" : "@"
+      }, {
+        "@id" : "2844",
+        "$" : "@"
+      }, {
+        "@id" : "2845",
+        "$" : "@"
+      }, {
+        "@id" : "2846",
+        "$" : "@"
+      }, {
+        "@id" : "2847",
+        "$" : "@"
+      }, {
+        "@id" : "2848",
+        "$" : "@"
+      }, {
+        "@id" : "2849",
+        "$" : "@"
+      }, {
+        "@id" : "2901",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "2902",
+        "$" : "[metatag = 5][place = \"1000005\"] Beauty"
+      }, {
+        "@id" : "2903",
+        "$" : "[metatag = 5]2"
+      }, {
+        "@id" : "2904",
+        "$" : "[metatag = 5]Get [mob = \"1414104\"] and come back."
+      }, {
+        "@id" : "2905",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "2906",
+        "$" : "@"
+      }, {
+        "@id" : "2907",
+        "$" : "[metatag = 5]Hey, kid! Come here!"
+      }, {
+        "@id" : "2908",
+        "$" : "[metatag = 5]You're busy, right? Well, you still gotta help me.[br]You stay here and help me collect something.[br]Ever wondered why the sea emits this odour?[br][br]It's because this [place = \"1000005\"] [etc = \"11008\"] releases all the oil and gas into the sea.[br]Not only does it give off foul smell, but you also can't drink the water. Although it's not something harmful to the body, it exudes a kind of super stinky smell.[br][br]At least with [questItem = \"2\"], it has become drinkable.[br]But extracting [questItem = \"2\"] directly is difficult. However, with [mob = \"1414104\"]'s body, it's possible, so catch [mob = \"1414104\"], okay?[br]Then add some oil, so I can drink fresh [questItem = \"2\"].[br]Why do I do this?[br]Because collecting it will help my beauty, and I would be thankful for that!"
+      }, {
+        "@id" : "2909",
+        "$" : "[metatag = 5]I don't like to wait too long. Make haste!"
+      }, {
+        "@id" : "2910",
+        "$" : "@"
+      }, {
+        "@id" : "2911",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "2912",
+        "$" : "[metatag = 5]400"
+      }, {
+        "@id" : "2913",
+        "$" : "@"
+      }, {
+        "@id" : "2914",
+        "$" : "[metatag = 5]Oh, you came really fast. (Blush)[br]You're really strong, huh? It doesn't not matter if you're a boy or a girl, as long as you're strong enough.[br]I'll take care of you.[br]What's your name? I'll remember it, so please tell me."
+      }, {
+        "@id" : "2915",
+        "$" : "[metatag = 5]Scale Bean Saibaman"
+      }, {
+        "@id" : "2916",
+        "$" : "@"
+      }, {
+        "@id" : "2917",
+        "$" : "@"
+      }, {
+        "@id" : "2918",
+        "$" : "@"
+      }, {
+        "@id" : "2919",
+        "$" : "@"
+      }, {
+        "@id" : "2920",
+        "$" : "@"
+      }, {
+        "@id" : "2921",
+        "$" : "@"
+      }, {
+        "@id" : "2922",
+        "$" : "@"
+      }, {
+        "@id" : "2923",
+        "$" : "@"
+      }, {
+        "@id" : "2924",
+        "$" : "@"
+      }, {
+        "@id" : "2925",
+        "$" : "@"
+      }, {
+        "@id" : "2926",
+        "$" : "@"
+      }, {
+        "@id" : "2927",
+        "$" : "@"
+      }, {
+        "@id" : "2928",
+        "$" : "@"
+      }, {
+        "@id" : "2929",
+        "$" : "@"
+      }, {
+        "@id" : "2930",
+        "$" : "@"
+      }, {
+        "@id" : "2931",
+        "$" : "@"
+      }, {
+        "@id" : "2932",
+        "$" : "@"
+      }, {
+        "@id" : "2933",
+        "$" : "@"
+      }, {
+        "@id" : "2934",
+        "$" : "@"
+      }, {
+        "@id" : "2935",
+        "$" : "@"
+      }, {
+        "@id" : "2936",
+        "$" : "@"
+      }, {
+        "@id" : "2937",
+        "$" : "@"
+      }, {
+        "@id" : "2938",
+        "$" : "@"
+      }, {
+        "@id" : "2939",
+        "$" : "@"
+      }, {
+        "@id" : "2940",
+        "$" : "@"
+      }, {
+        "@id" : "2941",
+        "$" : "@"
+      }, {
+        "@id" : "2942",
+        "$" : "@"
+      }, {
+        "@id" : "2943",
+        "$" : "@"
+      }, {
+        "@id" : "2944",
+        "$" : "@"
+      }, {
+        "@id" : "2945",
+        "$" : "@"
+      }, {
+        "@id" : "2946",
+        "$" : "@"
+      }, {
+        "@id" : "2947",
+        "$" : "@"
+      }, {
+        "@id" : "2948",
+        "$" : "@"
+      }, {
+        "@id" : "2949",
+        "$" : "@"
+      }, {
+        "@id" : "3001",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "3002",
+        "$" : "[metatag = 5]Hijackers [etc = \"10014\"]"
+      }, {
+        "@id" : "3003",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "3004",
+        "$" : "[metatag = 5]Go to [npc = \"4072103\"] and report about [etc = \"10014\"]."
+      }, {
+        "@id" : "3005",
+        "$" : "[metatag = 5]Storyline"
+      }, {
+        "@id" : "3006",
+        "$" : "@"
+      }, {
+        "@id" : "3007",
+        "$" : "[metatag = 5]Ah ~ ~ terrible ~"
+      }, {
+        "@id" : "3008",
+        "$" : "[metatag = 5]Ah you again, glad to see you![br]I am in a bit of trouble here.[br]I think [etc = \"10014\"] has been looking for me, I have been hiding from them. I am tired of it![br]This caused me to ruin my skin,[br][br]Any ways can you you go to [npc = \"4072103\"].[br]Report him about [etc = \"10014\"] plan to kidnap me and other children![br]As you must have recently also heard about [npc = \"5591201\"] being captured!"
+      }, {
+        "@id" : "3009",
+        "$" : "[metatag = 5]You must go report this! Evil [etc = \"10014\"]!"
+      }, {
+        "@id" : "3010",
+        "$" : "@"
+      }, {
+        "@id" : "3011",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "3012",
+        "$" : "[metatag = 5]150"
+      }, {
+        "@id" : "3013",
+        "$" : "@"
+      }, {
+        "@id" : "3014",
+        "$" : "[metatag = 5]......hum. [npc = \"2971101\"] is scared of being abducted? and she also says other children are kidnapped by [etc = \"10014\"]?[br]Hmmm I haven't heard of any cases like that... [npc = \"2971101\"] is just scared, ill make sure she is secure!"
+      }, {
+        "@id" : "3015",
+        "$" : "@"
+      }, {
+        "@id" : "3016",
+        "$" : "@"
+      }, {
+        "@id" : "3017",
+        "$" : "@"
+      }, {
+        "@id" : "3018",
+        "$" : "@"
+      }, {
+        "@id" : "3019",
+        "$" : "@"
+      }, {
+        "@id" : "3020",
+        "$" : "@"
+      }, {
+        "@id" : "3021",
+        "$" : "@"
+      }, {
+        "@id" : "3022",
+        "$" : "@"
+      }, {
+        "@id" : "3023",
+        "$" : "@"
+      }, {
+        "@id" : "3024",
+        "$" : "@"
+      }, {
+        "@id" : "3025",
+        "$" : "@"
+      }, {
+        "@id" : "3026",
+        "$" : "@"
+      }, {
+        "@id" : "3027",
+        "$" : "@"
+      }, {
+        "@id" : "3028",
+        "$" : "@"
+      }, {
+        "@id" : "3029",
+        "$" : "@"
+      }, {
+        "@id" : "3030",
+        "$" : "@"
+      }, {
+        "@id" : "3031",
+        "$" : "@"
+      }, {
+        "@id" : "3032",
+        "$" : "@"
+      }, {
+        "@id" : "3033",
+        "$" : "@"
+      }, {
+        "@id" : "3034",
+        "$" : "@"
+      }, {
+        "@id" : "3035",
+        "$" : "@"
+      }, {
+        "@id" : "3036",
+        "$" : "@"
+      }, {
+        "@id" : "3037",
+        "$" : "@"
+      }, {
+        "@id" : "3038",
+        "$" : "@"
+      }, {
+        "@id" : "3039",
+        "$" : "@"
+      }, {
+        "@id" : "3040",
+        "$" : "@"
+      }, {
+        "@id" : "3041",
+        "$" : "@"
+      }, {
+        "@id" : "3042",
+        "$" : "@"
+      }, {
+        "@id" : "3043",
+        "$" : "@"
+      }, {
+        "@id" : "3044",
+        "$" : "@"
+      }, {
+        "@id" : "3045",
+        "$" : "@"
+      }, {
+        "@id" : "3046",
+        "$" : "@"
+      }, {
+        "@id" : "3047",
+        "$" : "@"
+      }, {
+        "@id" : "3048",
+        "$" : "@"
+      }, {
+        "@id" : "3049",
+        "$" : "@"
+      }, {
+        "@id" : "3101",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "3102",
+        "$" : "[metatag = 5]Gather Evidence"
+      }, {
+        "@id" : "3103",
+        "$" : "[metatag = 5]3"
+      }, {
+        "@id" : "3104",
+        "$" : "[metatag = 5]Find the evidence from [mob = \"1711107\"]."
+      }, {
+        "@id" : "3105",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "3106",
+        "$" : "@"
+      }, {
+        "@id" : "3107",
+        "$" : "[metatag = 5]Hmm... Evidence is needed."
+      }, {
+        "@id" : "3108",
+        "$" : "[metatag = 5]Even if [etc = \"10014\"] really abducted children, the police investigation will not be easy.[br]If you can find some evidence, then perhaps it would provide as a basis for the investigation. If the [etc = \"10014\"] looks like suspicious and you have evidence, immediately show [npc = \"4072130\"][br]The best place I would think to search for evidence would be to take out a few [mob = \"1711107\"] there. [mob = \"1711107\"] are located in the east of [place = \"100101012\"].[br][br]In yet another era in many nations of the earth, [place = \"100101012\"] animal tried to resist evil but couldn't, there are also a lot of ghosts, but do not fret young one.[br]They are a thing of the past."
+      }, {
+        "@id" : "3109",
+        "$" : "[metatag =5]As long as you gather the evidence, you can go ahead and investigate."
+      }, {
+        "@id" : "3110",
+        "$" : "@"
+      }, {
+        "@id" : "3111",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "3112",
+        "$" : "[metatag = 5]1360"
+      }, {
+        "@id" : "3113",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "3114",
+        "$" : "[metatag = 5]Ah? Did you really bring back the evidence?[br]This will definitely be a big case! Thank you for your troubles. This is for you, take a nice good break.[br]I'll go take the evidence to investigate. This is really too good to be true [user]."
+      }, {
+        "@id" : "3115",
+        "$" : "[metatag = 5]Plunder Captain"
+      }, {
+        "@id" : "3116",
+        "$" : "@"
+      }, {
+        "@id" : "3117",
+        "$" : "@"
+      }, {
+        "@id" : "3118",
+        "$" : "@"
+      }, {
+        "@id" : "3119",
+        "$" : "@"
+      }, {
+        "@id" : "3120",
+        "$" : "@"
+      }, {
+        "@id" : "3121",
+        "$" : "@"
+      }, {
+        "@id" : "3122",
+        "$" : "@"
+      }, {
+        "@id" : "3123",
+        "$" : "@"
+      }, {
+        "@id" : "3124",
+        "$" : "@"
+      }, {
+        "@id" : "3125",
+        "$" : "@"
+      }, {
+        "@id" : "3126",
+        "$" : "@"
+      }, {
+        "@id" : "3127",
+        "$" : "@"
+      }, {
+        "@id" : "3128",
+        "$" : "@"
+      }, {
+        "@id" : "3129",
+        "$" : "@"
+      }, {
+        "@id" : "3130",
+        "$" : "@"
+      }, {
+        "@id" : "3131",
+        "$" : "@"
+      }, {
+        "@id" : "3132",
+        "$" : "@"
+      }, {
+        "@id" : "3133",
+        "$" : "@"
+      }, {
+        "@id" : "3134",
+        "$" : "@"
+      }, {
+        "@id" : "3135",
+        "$" : "@"
+      }, {
+        "@id" : "3136",
+        "$" : "@"
+      }, {
+        "@id" : "3137",
+        "$" : "@"
+      }, {
+        "@id" : "3138",
+        "$" : "@"
+      }, {
+        "@id" : "3139",
+        "$" : "@"
+      }, {
+        "@id" : "3140",
+        "$" : "@"
+      }, {
+        "@id" : "3141",
+        "$" : "@"
+      }, {
+        "@id" : "3142",
+        "$" : "@"
+      }, {
+        "@id" : "3143",
+        "$" : "@"
+      }, {
+        "@id" : "3144",
+        "$" : "@"
+      }, {
+        "@id" : "3145",
+        "$" : "@"
+      }, {
+        "@id" : "3146",
+        "$" : "@"
+      }, {
+        "@id" : "3147",
+        "$" : "@"
+      }, {
+        "@id" : "3148",
+        "$" : "@"
+      }, {
+        "@id" : "3149",
+        "$" : "@"
+      }, {
+        "@id" : "3201",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "3202",
+        "$" : "[metatag = 5]I really hate red pants!"
+      }, {
+        "@id" : "3203",
+        "$" : "[metatag = 5]2"
+      }, {
+        "@id" : "3204",
+        "$" : "[metatag = 5]Kill [mob = \"2131101\"]."
+      }, {
+        "@id" : "3205",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "3206",
+        "$" : "@"
+      }, {
+        "@id" : "3207",
+        "$" : "[metatag = 5]they can beat [etc = \"10014\"] people ...."
+      }, {
+        "@id" : "3208",
+        "$" : "[metatag = 5]I really hate [etc = \"10014\"].[br]Those guys just don't understand [etc = \"3098\"], they always mistake me as an animal and try to make me wear red pants![br]This really is the worst situation! Ugh! I, [npc = \"4372203\"] cannot accept such a thing.[br]If you are going to [place = \"100101012\"], then could you help me by killing [mob = \"2131101\"]? I want to give them a warning, It is wrong to wear red underwear."
+      }, {
+        "@id" : "3209",
+        "$" : "[metatag = 5]What? Red underwear! Absolutely not!"
+      }, {
+        "@id" : "3210",
+        "$" : "@"
+      }, {
+        "@id" : "3211",
+        "$" : "[metatag = 5]3"
+      }, {
+        "@id" : "3212",
+        "$" : "[metatag = 5]400"
+      }, {
+        "@id" : "3213",
+        "$" : "@"
+      }, {
+        "@id" : "3214",
+        "$" : "[metatag = 5]Did you warn [mob = \"2131101\"] yet? Thank you![br]Here is your reward! Now no one can make me wear red pants again!"
+      }, {
+        "@id" : "3215",
+        "$" : "[metatag = 5]Small Flying Squirrel Soldier"
+      }, {
+        "@id" : "3216",
+        "$" : "@"
+      }, {
+        "@id" : "3217",
+        "$" : "@"
+      }, {
+        "@id" : "3218",
+        "$" : "@"
+      }, {
+        "@id" : "3219",
+        "$" : "@"
+      }, {
+        "@id" : "3220",
+        "$" : "@"
+      }, {
+        "@id" : "3221",
+        "$" : "@"
+      }, {
+        "@id" : "3222",
+        "$" : "@"
+      }, {
+        "@id" : "3223",
+        "$" : "@"
+      }, {
+        "@id" : "3224",
+        "$" : "@"
+      }, {
+        "@id" : "3225",
+        "$" : "@"
+      }, {
+        "@id" : "3226",
+        "$" : "@"
+      }, {
+        "@id" : "3227",
+        "$" : "@"
+      }, {
+        "@id" : "3228",
+        "$" : "@"
+      }, {
+        "@id" : "3229",
+        "$" : "@"
+      }, {
+        "@id" : "3230",
+        "$" : "@"
+      }, {
+        "@id" : "3231",
+        "$" : "@"
+      }, {
+        "@id" : "3232",
+        "$" : "@"
+      }, {
+        "@id" : "3233",
+        "$" : "@"
+      }, {
+        "@id" : "3234",
+        "$" : "@"
+      }, {
+        "@id" : "3235",
+        "$" : "@"
+      }, {
+        "@id" : "3236",
+        "$" : "@"
+      }, {
+        "@id" : "3237",
+        "$" : "@"
+      }, {
+        "@id" : "3238",
+        "$" : "@"
+      }, {
+        "@id" : "3239",
+        "$" : "@"
+      }, {
+        "@id" : "3240",
+        "$" : "@"
+      }, {
+        "@id" : "3241",
+        "$" : "@"
+      }, {
+        "@id" : "3242",
+        "$" : "@"
+      }, {
+        "@id" : "3243",
+        "$" : "@"
+      }, {
+        "@id" : "3244",
+        "$" : "@"
+      }, {
+        "@id" : "3245",
+        "$" : "@"
+      }, {
+        "@id" : "3246",
+        "$" : "@"
+      }, {
+        "@id" : "3247",
+        "$" : "@"
+      }, {
+        "@id" : "3248",
+        "$" : "@"
+      }, {
+        "@id" : "3249",
+        "$" : "@"
+      }, {
+        "@id" : "3301",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "3302",
+        "$" : "[metatag = 5]The milk didn't come"
+      }, {
+        "@id" : "3303",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "3304",
+        "$" : "[metatag = 5]Go to [npc = \"5061201\"] and ask about home delivery."
+      }, {
+        "@id" : "3305",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "3306",
+        "$" : "@"
+      }, {
+        "@id" : "3307",
+        "$" : "[metatag = 5]Hey, [user], can you come here for a moment?"
+      }, {
+        "@id" : "3308",
+        "$" : "[metatag = 5]I've been drinking milk everyday, but lately, the milk has stopped being delivered.[br]Can you go find [npc = \"5061201\"], and ask him what exactly happened?[br]Uncle [npc = \"5061201\"] had already went to [place = \"100101100\"], [place = \"1000002\"] before."
+      }, {
+        "@id" : "3309",
+        "$" : "[metatag = 5]drink plenty of milk!"
+      }, {
+        "@id" : "3310",
+        "$" : "@"
+      }, {
+        "@id" : "3311",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "3312",
+        "$" : "[metatag = 5]500"
+      }, {
+        "@id" : "3313",
+        "$" : "@"
+      }, {
+        "@id" : "3314",
+        "$" : "[metatag = 5]Hello [user]. Can I help you?[br][npc = \"2951101\"] did not receive the milk delivery? Oh, it was deliberately not sent.[br]Ugh! I am so useless! I shall prepare more milk.[br]Tell her I'm really sorry."
+      }, {
+        "@id" : "3315",
+        "$" : "@"
+      }, {
+        "@id" : "3316",
+        "$" : "@"
+      }, {
+        "@id" : "3317",
+        "$" : "@"
+      }, {
+        "@id" : "3318",
+        "$" : "@"
+      }, {
+        "@id" : "3319",
+        "$" : "@"
+      }, {
+        "@id" : "3320",
+        "$" : "@"
+      }, {
+        "@id" : "3321",
+        "$" : "@"
+      }, {
+        "@id" : "3322",
+        "$" : "@"
+      }, {
+        "@id" : "3323",
+        "$" : "@"
+      }, {
+        "@id" : "3324",
+        "$" : "@"
+      }, {
+        "@id" : "3325",
+        "$" : "@"
+      }, {
+        "@id" : "3326",
+        "$" : "@"
+      }, {
+        "@id" : "3327",
+        "$" : "@"
+      }, {
+        "@id" : "3328",
+        "$" : "@"
+      }, {
+        "@id" : "3329",
+        "$" : "@"
+      }, {
+        "@id" : "3330",
+        "$" : "@"
+      }, {
+        "@id" : "3331",
+        "$" : "@"
+      }, {
+        "@id" : "3332",
+        "$" : "@"
+      }, {
+        "@id" : "3333",
+        "$" : "@"
+      }, {
+        "@id" : "3334",
+        "$" : "@"
+      }, {
+        "@id" : "3335",
+        "$" : "@"
+      }, {
+        "@id" : "3336",
+        "$" : "@"
+      }, {
+        "@id" : "3337",
+        "$" : "@"
+      }, {
+        "@id" : "3338",
+        "$" : "@"
+      }, {
+        "@id" : "3339",
+        "$" : "@"
+      }, {
+        "@id" : "3340",
+        "$" : "@"
+      }, {
+        "@id" : "3341",
+        "$" : "@"
+      }, {
+        "@id" : "3342",
+        "$" : "@"
+      }, {
+        "@id" : "3343",
+        "$" : "@"
+      }, {
+        "@id" : "3344",
+        "$" : "@"
+      }, {
+        "@id" : "3345",
+        "$" : "@"
+      }, {
+        "@id" : "3346",
+        "$" : "@"
+      }, {
+        "@id" : "3347",
+        "$" : "@"
+      }, {
+        "@id" : "3348",
+        "$" : "@"
+      }, {
+        "@id" : "3349",
+        "$" : "@"
+      }, {
+        "@id" : "3401",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "3402",
+        "$" : "[metatag = 5]Milk Delivery"
+      }, {
+        "@id" : "3403",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "3404",
+        "$" : "[metatag = 5]Deliver milk to [npc = \"2951101\"]."
+      }, {
+        "@id" : "3405",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "3406",
+        "$" : "@"
+      }, {
+        "@id" : "3407",
+        "$" : "[metatag = 5]If anyone can help, please do so...."
+      }, {
+        "@id" : "3408",
+        "$" : "[metatag = 5][user]! can you help me?[br]If you go to [place = \"100021\"], please deliver this jar of milk to [npc = \"2951101\"]. It is located near [place = \"1000005\"].[br]Also on the way to [place = \"100021\"] you might encounter [etc = \"10014\"], try to avoid them as they might steal milk. I heard that you have been very brave, so this should be easy for you right? Alright take [questItem = \"7\"] to [npc = \"2951101\"], okay?"
+      }, {
+        "@id" : "3409",
+        "$" : "[metatag = 5]Thank you! Be careful not to break the milk bottle."
+      }, {
+        "@id" : "3410",
+        "$" : "@"
+      }, {
+        "@id" : "3411",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "3412",
+        "$" : "[metatag = 5]500"
+      }, {
+        "@id" : "3413",
+        "$" : "@"
+      }, {
+        "@id" : "3414",
+        "$" : "[metatag = 5]Wow, this is [questItem = \"7\"]![br]I have been waiting for ages for it to be delivered. Thank you so much [user].[br]I heard you found the village that is the home of the bad guys?[br]I'm just a market Lady, though I don't know if I can help here, but if I hear any message I will tell you."
+      }, {
+        "@id" : "3415",
+        "$" : "@"
+      }, {
+        "@id" : "3416",
+        "$" : "@"
+      }, {
+        "@id" : "3417",
+        "$" : "@"
+      }, {
+        "@id" : "3418",
+        "$" : "@"
+      }, {
+        "@id" : "3419",
+        "$" : "@"
+      }, {
+        "@id" : "3420",
+        "$" : "@"
+      }, {
+        "@id" : "3421",
+        "$" : "@"
+      }, {
+        "@id" : "3422",
+        "$" : "@"
+      }, {
+        "@id" : "3423",
+        "$" : "@"
+      }, {
+        "@id" : "3424",
+        "$" : "@"
+      }, {
+        "@id" : "3425",
+        "$" : "@"
+      }, {
+        "@id" : "3426",
+        "$" : "@"
+      }, {
+        "@id" : "3427",
+        "$" : "@"
+      }, {
+        "@id" : "3428",
+        "$" : "@"
+      }, {
+        "@id" : "3429",
+        "$" : "@"
+      }, {
+        "@id" : "3430",
+        "$" : "@"
+      }, {
+        "@id" : "3431",
+        "$" : "@"
+      }, {
+        "@id" : "3432",
+        "$" : "@"
+      }, {
+        "@id" : "3433",
+        "$" : "@"
+      }, {
+        "@id" : "3434",
+        "$" : "@"
+      }, {
+        "@id" : "3435",
+        "$" : "@"
+      }, {
+        "@id" : "3436",
+        "$" : "@"
+      }, {
+        "@id" : "3437",
+        "$" : "@"
+      }, {
+        "@id" : "3438",
+        "$" : "@"
+      }, {
+        "@id" : "3439",
+        "$" : "@"
+      }, {
+        "@id" : "3440",
+        "$" : "@"
+      }, {
+        "@id" : "3441",
+        "$" : "@"
+      }, {
+        "@id" : "3442",
+        "$" : "@"
+      }, {
+        "@id" : "3443",
+        "$" : "@"
+      }, {
+        "@id" : "3444",
+        "$" : "@"
+      }, {
+        "@id" : "3445",
+        "$" : "@"
+      }, {
+        "@id" : "3446",
+        "$" : "@"
+      }, {
+        "@id" : "3447",
+        "$" : "@"
+      }, {
+        "@id" : "3448",
+        "$" : "@"
+      }, {
+        "@id" : "3449",
+        "$" : "@"
+      }, {
+        "@id" : "3501",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "3502",
+        "$" : "[metatag = 5]I can't stand it anymore!"
+      }, {
+        "@id" : "3503",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "3504",
+        "$" : "[metatag = 5]Convey [npc = \"5591201\"]'s message to [npc = \"2971101\"]."
+      }, {
+        "@id" : "3505",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "3506",
+        "$" : "@"
+      }, {
+        "@id" : "3507",
+        "$" : "[metatag = 5]I don't like [npc = \"2971101\"]..."
+      }, {
+        "@id" : "3508",
+        "$" : "[metatag = 5]How are you doing [user]?[br]You thought I was kidnapped? I was just out of the village. Do you know [npc = \"2971101\"]? Actually, she is pretty cute, but she is just too bossy and always ordering people to do this or that.[br]I want to tell her straight up, that I'm not her servant. So can you help me tell [npc = \"2971101\"],[br]I will never help her again after this.[br]But I am too afraid to face her, so I will not go back to the village. [npc = \"2971101\"] is a scary person. Also tell them I was not kidnapped!"
+      }, {
+        "@id" : "3509",
+        "$" : "[Metatag = 5]You shouldn't return to the village."
+      }, {
+        "@id" : "3510",
+        "$" : "@"
+      }, {
+        "@id" : "3511",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "3512",
+        "$" : "[metatag = 5]470"
+      }, {
+        "@id" : "3513",
+        "$" : "@"
+      }, {
+        "@id" : "3514",
+        "$" : "[metatag = 5]What? [npc = \"5591201\"] said that you you?[br]He's got some nerve![br]He is becoming too cocky now. Talking to me like that.. ugh![br]Well, anyway, [user] thanks for informing me.[br]You are not a \"go to school\" kind of person huh!"
+      }, {
+        "@id" : "3515",
+        "$" : "@"
+      }, {
+        "@id" : "3516",
+        "$" : "@"
+      }, {
+        "@id" : "3517",
+        "$" : "@"
+      }, {
+        "@id" : "3518",
+        "$" : "@"
+      }, {
+        "@id" : "3519",
+        "$" : "@"
+      }, {
+        "@id" : "3520",
+        "$" : "@"
+      }, {
+        "@id" : "3521",
+        "$" : "@"
+      }, {
+        "@id" : "3522",
+        "$" : "@"
+      }, {
+        "@id" : "3523",
+        "$" : "@"
+      }, {
+        "@id" : "3524",
+        "$" : "@"
+      }, {
+        "@id" : "3525",
+        "$" : "@"
+      }, {
+        "@id" : "3526",
+        "$" : "@"
+      }, {
+        "@id" : "3527",
+        "$" : "@"
+      }, {
+        "@id" : "3528",
+        "$" : "@"
+      }, {
+        "@id" : "3529",
+        "$" : "@"
+      }, {
+        "@id" : "3530",
+        "$" : "@"
+      }, {
+        "@id" : "3531",
+        "$" : "@"
+      }, {
+        "@id" : "3532",
+        "$" : "@"
+      }, {
+        "@id" : "3533",
+        "$" : "@"
+      }, {
+        "@id" : "3534",
+        "$" : "@"
+      }, {
+        "@id" : "3535",
+        "$" : "@"
+      }, {
+        "@id" : "3536",
+        "$" : "@"
+      }, {
+        "@id" : "3537",
+        "$" : "@"
+      }, {
+        "@id" : "3538",
+        "$" : "@"
+      }, {
+        "@id" : "3539",
+        "$" : "@"
+      }, {
+        "@id" : "3540",
+        "$" : "@"
+      }, {
+        "@id" : "3541",
+        "$" : "@"
+      }, {
+        "@id" : "3542",
+        "$" : "@"
+      }, {
+        "@id" : "3543",
+        "$" : "@"
+      }, {
+        "@id" : "3544",
+        "$" : "@"
+      }, {
+        "@id" : "3545",
+        "$" : "@"
+      }, {
+        "@id" : "3546",
+        "$" : "@"
+      }, {
+        "@id" : "3547",
+        "$" : "@"
+      }, {
+        "@id" : "3548",
+        "$" : "@"
+      }, {
+        "@id" : "3549",
+        "$" : "@"
+      }, {
+        "@id" : "3601",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "3602",
+        "$" : "[metatag = 5]Woman's resentment is terrible"
+      }, {
+        "@id" : "3603",
+        "$" : "[metatag = 5]2"
+      }, {
+        "@id" : "3604",
+        "$" : "[metatag = 5]Defeat [mob = \"9111101\"]"
+      }, {
+        "@id" : "3605",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "3606",
+        "$" : "@"
+      }, {
+        "@id" : "3607",
+        "$" : "[metatag = 5]Kid! [user] Hey! Come here!"
+      }, {
+        "@id" : "3608",
+        "$" : "[metatag = 5]Can you catch [mob = \"9111101\"] please?![br]It is around our village, in the west.[br]They stole my clothes![br]Look at my face, they even hurt me![br]You see the bruises?[br]I was the most beautiful person at [place = \"100008\"]... he destroyed my beauty![br]I have nothing else to ask you, just beat those [mob = \"9111101\"], I repeat... beat up [mob = \"9111101\"]!!"
+      }, {
+        "@id" : "3609",
+        "$" : "[metatag = 5]Come back later with the good news!"
+      }, {
+        "@id" : "3610",
+        "$" : "@"
+      }, {
+        "@id" : "3611",
+        "$" : "[metatag = 5]3"
+      }, {
+        "@id" : "3612",
+        "$" : "[metatag = 5]220"
+      }, {
+        "@id" : "3613",
+        "$" : "@"
+      }, {
+        "@id" : "3614",
+        "$" : "[metatag = 5]You defeated [mob = \"9111101\"]? I see you are injured.[br][user] you're really brave, very good. [npc = \"5591201\"] you are worthy of my best men for hiring a strong person like you.[br]Thank you, I praise you."
+      }, {
+        "@id" : "3615",
+        "$" : "Flower monkey"
+      }, {
+        "@id" : "3616",
+        "$" : "@"
+      }, {
+        "@id" : "3617",
+        "$" : "@"
+      }, {
+        "@id" : "3618",
+        "$" : "@"
+      }, {
+        "@id" : "3619",
+        "$" : "@"
+      }, {
+        "@id" : "3620",
+        "$" : "@"
+      }, {
+        "@id" : "3621",
+        "$" : "@"
+      }, {
+        "@id" : "3622",
+        "$" : "@"
+      }, {
+        "@id" : "3623",
+        "$" : "@"
+      }, {
+        "@id" : "3624",
+        "$" : "@"
+      }, {
+        "@id" : "3625",
+        "$" : "@"
+      }, {
+        "@id" : "3626",
+        "$" : "@"
+      }, {
+        "@id" : "3627",
+        "$" : "@"
+      }, {
+        "@id" : "3628",
+        "$" : "@"
+      }, {
+        "@id" : "3629",
+        "$" : "@"
+      }, {
+        "@id" : "3630",
+        "$" : "@"
+      }, {
+        "@id" : "3631",
+        "$" : "@"
+      }, {
+        "@id" : "3632",
+        "$" : "@"
+      }, {
+        "@id" : "3633",
+        "$" : "@"
+      }, {
+        "@id" : "3634",
+        "$" : "@"
+      }, {
+        "@id" : "3635",
+        "$" : "@"
+      }, {
+        "@id" : "3636",
+        "$" : "@"
+      }, {
+        "@id" : "3637",
+        "$" : "@"
+      }, {
+        "@id" : "3638",
+        "$" : "@"
+      }, {
+        "@id" : "3639",
+        "$" : "@"
+      }, {
+        "@id" : "3640",
+        "$" : "@"
+      }, {
+        "@id" : "3641",
+        "$" : "@"
+      }, {
+        "@id" : "3642",
+        "$" : "@"
+      }, {
+        "@id" : "3643",
+        "$" : "@"
+      }, {
+        "@id" : "3644",
+        "$" : "@"
+      }, {
+        "@id" : "3645",
+        "$" : "@"
+      }, {
+        "@id" : "3646",
+        "$" : "@"
+      }, {
+        "@id" : "3647",
+        "$" : "@"
+      }, {
+        "@id" : "3648",
+        "$" : "@"
+      }, {
+        "@id" : "3649",
+        "$" : "@"
+      }, {
+        "@id" : "3701",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "3702",
+        "$" : "[metatag = 5][npc = \"5591201\"] Kidnapped?"
+      }, {
+        "@id" : "3703",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "3704",
+        "$" : "[metatag = 5]Search for [npc = \"5591201\"] in [place = \"100101012\"]."
+      }, {
+        "@id" : "3705",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "3706",
+        "$" : "@"
+      }, {
+        "@id" : "3707",
+        "$" : "[metatag = 5]Something's wrong, [npc = \"5591201\"] hasn't returned..."
+      }, {
+        "@id" : "3708",
+        "$" : "[metatag = 5]I'm the village gatekeeper, [npc = \"4191102\"]. [user], I have a favor to ask of you.\n[br][npc = \"5591201\"] hasn't come back for days. There have been incidents of children disappearing in [place = \"100101000\"] before. I'm really worried.\n[br]\n[br]The last time [npc = \"5591201\"] was seen was at the three-way junction before entering [place = \"100101012\"]. If you head east from here deep into the mountains, you'll encounter [etc = \"10014\"]'s Beast People there.\n[br]Lately, the [etc = \"10014\"] has been acting very strange. Their leader, [npc = \"8032123\"], is really a big troublemaker!\n[br]\n[br]I have to stay here, so I can't go look for [npc = \"5591201\"]. Will you go to [place = \"100101012\"] for me?\n[br]\n[br][place = \"100101012\"] feels odd. It used to be the last fortress the Beast People used to resist humans. Many Beast People are still alive, and unusual ghosts have appeared.\n[br]Go find [npc = \"5591201\"] near the eastern three-way junction and come back. Please."
+      }, {
+        "@id" : "3709",
+        "$" : "[metatag = 5]Please [npc = \"5591201\"]... Hurry back..."
+      }, {
+        "@id" : "3710",
+        "$" : "@"
+      }, {
+        "@id" : "3711",
+        "$" : "[metatag = 5]0"
+      }, {
+        "@id" : "3712",
+        "$" : "[metatag = 5]470"
+      }, {
+        "@id" : "3713",
+        "$" : "@"
+      }, {
+        "@id" : "3714",
+        "$" : "[metatag = 5]Wow! You startled me!\nYou're [user] from [place = \"100101100\"], right? What are you doing here?\n[br]\n[br]What? Is [npc = \"4191102\"] worried about me?\n[br]Do you think I'm dumb enough to be kidnapped by the [etc = \"10014\"]?\n[br]Don't underestimate me, tsk!"
+      }, {
+        "@id" : "3715",
+        "$" : "@"
+      }, {
+        "@id" : "3716",
+        "$" : "@"
+      }, {
+        "@id" : "3717",
+        "$" : "@"
+      }, {
+        "@id" : "3718",
+        "$" : "@"
+      }, {
+        "@id" : "3719",
+        "$" : "@"
+      }, {
+        "@id" : "3720",
+        "$" : "@"
+      }, {
+        "@id" : "3721",
+        "$" : "@"
+      }, {
+        "@id" : "3722",
+        "$" : "@"
+      }, {
+        "@id" : "3723",
+        "$" : "@"
+      }, {
+        "@id" : "3724",
+        "$" : "@"
+      }, {
+        "@id" : "3725",
+        "$" : "@"
+      }, {
+        "@id" : "3726",
+        "$" : "@"
+      }, {
+        "@id" : "3727",
+        "$" : "@"
+      }, {
+        "@id" : "3728",
+        "$" : "@"
+      }, {
+        "@id" : "3729",
+        "$" : "@"
+      }, {
+        "@id" : "3730",
+        "$" : "@"
+      }, {
+        "@id" : "3731",
+        "$" : "@"
+      }, {
+        "@id" : "3732",
+        "$" : "@"
+      }, {
+        "@id" : "3733",
+        "$" : "@"
+      }, {
+        "@id" : "3734",
+        "$" : "@"
+      }, {
+        "@id" : "3735",
+        "$" : "@"
+      }, {
+        "@id" : "3736",
+        "$" : "@"
+      }, {
+        "@id" : "3737",
+        "$" : "@"
+      }, {
+        "@id" : "3738",
+        "$" : "@"
+      }, {
+        "@id" : "3739",
+        "$" : "@"
+      }, {
+        "@id" : "3740",
+        "$" : "@"
+      }, {
+        "@id" : "3741",
+        "$" : "@"
+      }, {
+        "@id" : "3742",
+        "$" : "@"
+      }, {
+        "@id" : "3743",
+        "$" : "@"
+      }, {
+        "@id" : "3744",
+        "$" : "@"
+      }, {
+        "@id" : "3745",
+        "$" : "@"
+      }, {
+        "@id" : "3746",
+        "$" : "@"
+      }, {
+        "@id" : "3747",
+        "$" : "@"
+      }, {
+        "@id" : "3748",
+        "$" : "@"
+      }, {
+        "@id" : "3749",
+        "$" : "@"
+      }, {
+        "@id" : "3801",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "3802",
+        "$" : "[metatag = 5][Place = \"100101012\"] Uninvited guest"
+      }, {
+        "@id" : "3803",
+        "$" : "[metatag = 5]3"
+      }, {
+        "@id" : "3804",
+        "$" : "[Metatag = 5]Take care of [mob = \"2131110\"] and report [npc = \"4191102\"]."
+      }, {
+        "@id" : "3805",
+        "$" : "[metatag = 5]General"
+      }, {
+        "@id" : "3806",
+        "$" : "@"
+      }, {
+        "@id" : "3807",
+        "$" : "[Metatag = 5]I'm afraid of ghosts, and I can't walk anymore. ..."
+      }, {
+        "@id" : "3808",
+        "$" : "[metatag = 5][npc = \"4191102\"] was looking for me? Well ...[br]I was not taken away, nor lost. [mob = \"2131110\"], tried to chase me but I am very fast.[br][br]I am just here to observe [mob = \"2131110\"].[br][Place = \"100101012\"] is like the base of important animal monsters.[br]Although I'm afraid of ghosts, so I don't want to go in hehehe.[br]I heard a ghost noise of laughter![br][br][user] can you go instead to investigate [mob = \"2131110\"]? Afterwards, go back to [npc = \"4191102\"] and report the situation. I think you are strong enough?[br][mob = \"2131110\"] is on the east side of [place = \"100101012\"]."
+      }, {
+        "@id" : "3809",
+        "$" : "[metatag = 5][Place = \"100101012\"] is not that scary..."
+      }, {
+        "@id" : "3810",
+        "$" : "@"
+      }, {
+        "@id" : "3811",
+        "$" : "[metatag = 5]4"
+      }, {
+        "@id" : "3812",
+        "$" : "[metatag = 5]1220"
+      }, {
+        "@id" : "3813",
+        "$" : "@"
+      }, {
+        "@id" : "3814",
+        "$" : "[metatag = 5][user] I been waiting for you. So [npc = \"5591201\"] is fine?[br]Ah that's is great, he is always up to something... Although [npc = \"5591201\"] has not been kidnapped, I still fear the rest of the children were being abducted by [etc = \"10014\"].[br]Those bad guys ugh!.. any ways you taught them a lesson, good work!"
+      }, {
+        "@id" : "3815",
+        "$" : "[metatag = 5]Dumb Rat Recruits"
+      }, {
+        "@id" : "3816",
+        "$" : "[metatag = 5]Yahoi Fortress"
+      }, {
+        "@id" : "3817",
+        "$" : "@"
+      }, {
+        "@id" : "3818",
+        "$" : "@"
+      }, {
+        "@id" : "3819",
+        "$" : "@"
+      }, {
+        "@id" : "3820",
+        "$" : "@"
+      }, {
+        "@id" : "3821",
+        "$" : "@"
+      }, {
+        "@id" : "3822",
+        "$" : "@"
+      }, {
+        "@id" : "3823",
+        "$" : "@"
+      }, {
+        "@id" : "3824",
+        "$" : "@"
+      }, {
+        "@id" : "3825",
+        "$" : "@"
+      }, {
+        "@id" : "3826",
+        "$" : "@"
+      }, {
+        "@id" : "3827",
+        "$" : "@"
+      }, {
+        "@id" : "3828",
+        "$" : "@"
+      }, {
+        "@id" : "3829",
+        "$" : "@"
+      }, {
+        "@id" : "3830",
+        "$" : "@"
+      }, {
+        "@id" : "3831",
+        "$" : "@"
+      }, {
+        "@id" : "3832",
+        "$" : "@"
+      }, {
+        "@id" : "3833",
+        "$" : "@"
+      }, {
+        "@id" : "3834",
+        "$" : "@"
+      }, {
+        "@id" : "3835",
+        "$" : "@"
+      }, {
+        "@id" : "3836",
+        "$" : "@"
+      }, {
+        "@id" : "3837",
+        "$" : "@"
+      }, {
+        "@id" : "3838",
+        "$" : "@"
+      }, {
+        "@id" : "3839",
+        "$" : "@"
+      }, {
+        "@id" : "3840",
+        "$" : "@"
+      }, {
+        "@id" : "3841",
+        "$" : "@"
+      }, {
+        "@id" : "3842",
+        "$" : "@"
+      }, {
+        "@id" : "3843",
+        "$" : "@"
+      }, {
+        "@id" : "3844",
+        "$" : "@"
+      }, {
+        "@id" : "3845",
+        "$" : "@"
+      }, {
+        "@id" : "3846",
+        "$" : "@"
+      }, {
+        "@id" : "3847",
+        "$" : "@"
+      }, {
+        "@id" : "3848",
+        "$" : "@"
+      }, {
+        "@id" : "3849",
+        "$" : "@"
+      }, {
+        "@id" : "3901",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "3902",
+        "$" : "[metatag = 5]Secret prejudice"
+      }, {
+        "@id" : "3903",
+        "$" : "[metatag = 5]3"
+      }, {
+        "@id" : "3904",
+        "$" : "[metatag = 5]Go get [mob = \"2131146\"]."
+      }, {
+        "@id" : "3905",
+        "$" : "[metatag = 5]Storyline"
+      }, {
+        "@id" : "3906",
+        "$" : "@"
+      }, {
+        "@id" : "3907",
+        "$" : "[metatag = 5]Well of course I want you to help me ...."
+      }, {
+        "@id" : "3908",
+        "$" : "[metatag = 5][user], I have been waiting for you.[br][place = \"100101012\"] is a really important place for the [etc = \"10014\"]... so we cannot infiltrate it easily.[br]Here's the map of  Yahoi. You are our hope to prevent the [etc = \"10014\"]. [user], since you are just a young kid, you will go unnoticed by the enemy.[br]When their guard is down, please kill [mob = \"2131146\"]!"
+      }, {
+        "@id" : "3909",
+        "$" : "[metatag = 5]These guys will give up just fine if we hurry...."
+      }, {
+        "@id" : "3910",
+        "$" : "@"
+      }, {
+        "@id" : "3911",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "3912",
+        "$" : "[metatag = 5]700"
+      }, {
+        "@id" : "3913",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "3914",
+        "$" : "[metatag = 5]Well done! [user] you're a very good boy![br], [etc = \"10014\"] will give up one the [place = \"100101012\"] expansion plans and stay where they are!"
+      }, {
+        "@id" : "3915",
+        "$" : "[metatag = 5]hacker"
+      }, {
+        "@id" : "3916",
+        "$" : "[metatag = 5]Yahoi Fortress"
+      }, {
+        "@id" : "3917",
+        "$" : "@"
+      }, {
+        "@id" : "3918",
+        "$" : "@"
+      }, {
+        "@id" : "3919",
+        "$" : "@"
+      }, {
+        "@id" : "3920",
+        "$" : "@"
+      }, {
+        "@id" : "3921",
+        "$" : "@"
+      }, {
+        "@id" : "3922",
+        "$" : "@"
+      }, {
+        "@id" : "3923",
+        "$" : "@"
+      }, {
+        "@id" : "3924",
+        "$" : "@"
+      }, {
+        "@id" : "3925",
+        "$" : "@"
+      }, {
+        "@id" : "3926",
+        "$" : "@"
+      }, {
+        "@id" : "3927",
+        "$" : "@"
+      }, {
+        "@id" : "3928",
+        "$" : "@"
+      }, {
+        "@id" : "3929",
+        "$" : "@"
+      }, {
+        "@id" : "3930",
+        "$" : "@"
+      }, {
+        "@id" : "3931",
+        "$" : "@"
+      }, {
+        "@id" : "3932",
+        "$" : "@"
+      }, {
+        "@id" : "3933",
+        "$" : "@"
+      }, {
+        "@id" : "3934",
+        "$" : "@"
+      }, {
+        "@id" : "3935",
+        "$" : "@"
+      }, {
+        "@id" : "3936",
+        "$" : "@"
+      }, {
+        "@id" : "3937",
+        "$" : "@"
+      }, {
+        "@id" : "3938",
+        "$" : "@"
+      }, {
+        "@id" : "3939",
+        "$" : "@"
+      }, {
+        "@id" : "3940",
+        "$" : "@"
+      }, {
+        "@id" : "3941",
+        "$" : "@"
+      }, {
+        "@id" : "3942",
+        "$" : "@"
+      }, {
+        "@id" : "3943",
+        "$" : "@"
+      }, {
+        "@id" : "3944",
+        "$" : "@"
+      }, {
+        "@id" : "3945",
+        "$" : "@"
+      }, {
+        "@id" : "3946",
+        "$" : "@"
+      }, {
+        "@id" : "3947",
+        "$" : "@"
+      }, {
+        "@id" : "3948",
+        "$" : "@"
+      }, {
+        "@id" : "3949",
+        "$" : "@"
+      }, {
+        "@id" : "4001",
+        "$" : "[metatag = 5][place = \"100101000\"]"
+      }, {
+        "@id" : "4002",
+        "$" : "[metatag = 5]Robot reporter"
+      }, {
+        "@id" : "4003",
+        "$" : "[metatag = 5]3"
+      }, {
+        "@id" : "4004",
+        "$" : "[metatag = 5]Show [questItem = \"428\"] to [npc = \"4072103\"]."
+      }, {
+        "@id" : "4005",
+        "$" : "[metatag = 5]Storyline"
+      }, {
+        "@id" : "4006",
+        "$" : "@"
+      }, {
+        "@id" : "4007",
+        "$" : "[metatag = 5]The results came out. Come look at this!"
+      }, {
+        "@id" : "4008",
+        "$" : "[metatag = 5]Recently, many things happened.[br]We confiscated a few hats off of [etc = \"10014\"] to investigate. Do you know the hat painted with the RP sign? Once upon a time, there was group of what some called androids, and they used to have the RR logo on their clothes, very similar to RP logo. Those guys were known as the [etc = \"3016\"].[br]I have a feeling that [etc = \"3016\"] and [etc = \"10014\"] have a connection, and if that's the case, then that's bad news![br][etc = \"3016\"] is a historic crime group. One day they all suddenly disappeared, but if they were to come back again, they might be a threat.[br]But do not worry [user] it is just a possibility.[br]Any ways [mob = \"4511119\"] was holding [questItem = \"428\"] in [place = \"100101012\"]. Can you please investigate then report back?"
+      }, {
+        "@id" : "4009",
+        "$" : "[metatag = 5]Be sure to bring the report back!"
+      }, {
+        "@id" : "4010",
+        "$" : "@"
+      }, {
+        "@id" : "4011",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "4012",
+        "$" : "[metatag = 5]3000"
+      }, {
+        "@id" : "4013",
+        "$" : "[metatag = 5]1"
+      }, {
+        "@id" : "4014",
+        "$" : "[metatag = 5]Well done! [user] you're a very good person![br]Now the [etc = \"10014\"] will give up on their plans to expand [place = \"100101012\"]!"
+      }, {
+        "@id" : "4015",
+        "$" : "[metatag = 5]Corporal Cheetah"
+      }, {
+        "@id" : "4016",
+        "$" : "[metatag = 5]Yahoi Fortress"
+      }, {
+        "@id" : "4017",
+        "$" : "@"
+      }, {
+        "@id" : "4018",
+        "$" : "@"
+      }, {
+        "@id" : "4019",
+        "$" : "@"
+      }, {
+        "@id" : "4020",
+        "$" : "@"
+      }, {
+        "@id" : "4021",
+        "$" : "@"
+      }, {
+        "@id" : "4022",
+        "$" : "@"
+      }, {
+        "@id" : "4023",
+        "$" : "@"
+      }, {
+        "@id" : "4024",
+        "$" : "@"
+      }, {
+        "@id" : "4025",
+        "$" : "@"
+      }, {
+        "@id" : "4026",
+        "$" : "@"
+      }, {
+        "@id" : "4027",
+        "$" : "@"
+      }, {
+        "@id" : "4028",
+        "$" : "@"
+      }, {
+        "@id" : "4029",
+        "$" : "@"
+      }, {
+        "@id" : "4030",
+        "$" : "@"
+      }, {
+        "@id" : "4031",
+        "$" : "@"
+      }, {
+        "@id" : "4032",
+        "$" : "@"
+      }, {
+        "@id" : "4033",
+        "$" : "@"
+      }, {
+        "@id" : "4034",
+        "$" : "@"
+      }, {
+        "@id" : "4035",
+        "$" : "@"
+      }, {
+        "@id" : "4036",
+        "$" : "@"
+      }, {
+        "@id" : "4037",
+        "$" : "@"
+      }, {
+        "@id" : "4038",
+        "$" : "@"
+      }, {
+        "@id" : "4039",
+        "$" : "@"
+      }, {
+        "@id" : "4040",
+        "$" : "@"
+      }, {
+        "@id" : "4041",
+        "$" : "@"
+      }, {
+        "@id" : "4042",
+        "$" : "@"
+      }, {
+        "@id" : "4043",
+        "$" : "@"
+      }, {
+        "@id" : "4044",
+        "$" : "@"
+      }, {
+        "@id" : "4045",
+        "$" : "@"
+      }, {
+        "@id" : "4046",
+        "$" : "@"
+      }, {
+        "@id" : "4047",
+        "$" : "@"
+      }, {
+        "@id" : "4048",
+        "$" : "@"
+      }, {
+        "@id" : "4049",
+        "$" : "@"
+      } ]
+    }
+  }
+}
