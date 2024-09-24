@@ -1,1985 +1,3303 @@
 {
-  "table": {
-    "table_data": {
-      "text": [
-        {
-          "$": "Posso aiutarti nei tuoi viaggi, [user]. Seleziona dove vuoi andare."
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        },
-        {
-        }
-      ]
-    }
-  }
+	"table": {
+		"table_data": {
+			"text": [
+				{
+					"@id": "1",
+					"$": "Posso aiutarti nei tuoi viaggi, [user]. Seleziona dove vuoi andare."
+				},
+				{
+					"@id": "2",
+					"$": "Dirigiti all'ingresso del Forte di Yahoi Ovest"
+				},
+				{
+					"@id": "3",
+					"$": "Dirigiti a Yahoi Ovest."
+				},
+				{
+					"@id": "4",
+					"$": "Dirigiti alle Rovine del Nastro Rosso."
+				},
+				{
+					"@id": "5",
+					"$": "Dirigiti alla Foresta di Korin."
+				},
+				{
+					"@id": "6",
+					"$": "Dirigiti alla sede dei Pantaloni Rossi."
+				},
+				{
+					"@id": "7",
+					"$": "Dirigiti a Westland."
+				},
+				{
+					"@id": "8",
+					"$": "Il tempo scorre come l'acqua... Non puoi rimanere nello stesso posto per sempre."
+				},
+				{
+					"@id": "9",
+					"$": "Dirigiti a Westland."
+				},
+				{
+					"@id": "10",
+					"$": "Dirigiti a West City."
+				},
+				{
+					"@id": "11",
+					"$": "Dirigiti a Westland."
+				},
+				{
+					"@id": "12",
+					"$": "Dirigiti alla Caverna del Drago."
+				},
+				{
+					"@id": "13",
+					"$": "Dirigiti alle Rocce di Porunga."
+				},
+				{
+					"@id": "14",
+					"$": "Dirigiti a West City."
+				},
+				{
+					"@id": "15",
+					"$": "Dirigiti a Westland."
+				},
+				{
+					"@id": "16",
+					"$": "Dirigiti a Westland."
+				},
+				{
+					"@id": "17",
+					"$": "Dirigiti al Carcere Sotterraneo dei Pantaloni Rossi."
+				},
+				{
+					"@id": "18",
+					"$": "Dirigiti all'ingresso della Fortezza a Yahoi Ovest."
+				},
+				{
+					"@id": "19",
+					"$": "Dirigiti a Yahoi Est."
+				},
+				{
+					"@id": "20",
+					"$": "Dirigiti alle Fogne Splash Splash."
+				},
+				{
+					"@id": "21",
+					"$": "Dirigiti al Deserto di Fran Fran Nord."
+				},
+				{
+					"@id": "22",
+					"$": "Dirigiti alla Torre di Korin."
+				},
+				{
+					"@id": "23",
+					"$": "Dirigiti alla Foresta di Korin."
+				},
+				{
+					"@id": "24",
+					"$": "Dirigiti all'ingresso della Fortezza a Yahoi Est."
+				},
+				{
+					"@id": "25",
+					"$": "Dirigiti a Yahoi Est."
+				},
+				{
+					"@id": "26",
+					"$": "Dirigiti alla Grotta della Cascata di Aria."
+				},
+				{
+					"@id": "27",
+					"$": "Dirigiti alla Foresta di Korin."
+				},
+				{
+					"@id": "28",
+					"$": "Aeroporto di Korin"
+				},
+				{
+					"@id": "29",
+					"$": "Dirigiti al Campo d'Aviazione di Korin."
+				},
+				{
+					"@id": "30",
+					"$": "Dirigiti alla Casa di Kame."
+				},
+				{
+					"@id": "31",
+					"$": "Dirigiti al Villaggio di Pesca di Korin."
+				},
+				{
+					"@id": "32",
+					"$": "È quasi ora di trovare il Maestro Roshi, vero?"
+				},
+				{
+					"@id": "33",
+					"$": "Parti già?"
+				},
+				{
+					"@id": "34",
+					"$": "Vuoi che ti riporti indietro prima di partire?"
+				},
+				{
+					"@id": "35",
+					"$": "Spostati sulla cima della scogliera."
+				},
+				{
+					"@id": "36",
+					"$": "Dirigiti al molo di Fearland."
+				},
+				{
+					"@id": "37",
+					"$": "Dirigiti al Porto di Paella."
+				},
+				{
+					"@id": "38",
+					"$": "Dove vuoi andare?"
+				},
+				{
+					"@id": "39",
+					"$": "Stai per lasciare Fearland? Va bene, HAHA."
+				},
+				{
+					"@id": "40",
+					"$": "Le truppe militari d'elite di Mira sono dappertutto! Posso aiutarti ad aprire l'ingresso, ma fai attenzione!"
+				},
+				{
+					"@id": "41",
+					"$": "Entra nella sezione di rifornimento della base."
+				},
+				{
+					"@id": "42",
+					"$": "Stai scherzando!? Se vuoi combatterli, sei il benvenuto a provarci!"
+				},
+				{
+					"@id": "43",
+					"$": "Entra nell'area di rifornimento della Miniera di Detheka."
+				},
+				{
+					"@id": "44",
+					"$": "Osate comportarvi male in questo luogo sacro!? Non ve lo permetterò!"
+				},
+				{
+					"@id": "45",
+					"$": "Entra nella bellissima area dei cristalli."
+				},
+				{
+					"@id": "46",
+					"$": "Muoviti verso la cima della Torre di Chocolay."
+				},
+				{
+					"@id": "90",
+					"$": "Molto Facile"
+				},
+				{
+					"@id": "91",
+					"$": "Facile"
+				},
+				{
+					"@id": "92",
+					"$": "Normale"
+				},
+				{
+					"@id": "93",
+					"$": "Difficile"
+				},
+				{
+					"@id": "94",
+					"$": "Molto Difficile"
+				},
+				{
+					"@id": "95",
+					"$": "Impossibile (Gruppo)"
+				},
+				{
+					"@id": "96",
+					"$": "..."
+				},
+				{
+					"@id": "97",
+					"$": "Ho finito l'allenamento, quindi me ne vado ora."
+				},
+				{
+					"@id": "98",
+					"$": "Il tuo desiderio è stato esaudito."
+				},
+				{
+					"@id": "99",
+					"$": "Vai rapidamente a Papaya Island!"
+				},
+				{
+					"@id": "100",
+					"$": "Dirigiti a Papaya Island."
+				},
+				{
+					"@id": "101",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "102",
+					"$": "[metatag = 5]Utilizzo di [etc = \"7030\"]"
+				},
+				{
+					"@id": "103",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "104",
+					"$": "[metatag = 5]Misura il livello di potenza di [npc = \"3221202\"] con [etc = \"7030\"]"
+				},
+				{
+					"@id": "105",
+					"$": "[metatag = 5]Sistema"
+				},
+				{
+					"@id": "106",
+					"$": "@"
+				},
+				{
+					"@id": "107",
+					"$": "[metatag = 5]Ti sei svegliato? Vieni qui."
+				},
+				{
+					"@id": "108",
+					"$": "[metatag = 5]Ti sei svegliato, [user]? Sono [npc = \"3221202\"] che aspira a diventare un grande spiritualista.[br]Piacere di conoscerti. È fortunato che tu ti senta meglio.[br][br]Qui è sicuro, ma ci sarebbe pericolo ovunque. Pertanto, devi imparare come usare il [etc = \"7030\"] perché quando indossi il [etc = \"7030\"], sei in grado di misurare il livello di potenza del tuo avversario.[br][br]Sono sicuro che sai come usarlo, quindi è meglio assicurarsi che funzioni ancora. Usa [etc = \"3162\"] per aprire il potere del [etc = \"7030\"], quindi scegli il tuo obiettivo e misura i suoi livelli di potenza.[br]Dopo aver misurato, usa nuovamente [etc = \"3162\"] per chiudere il potere. Se non sei sicuro, clicca [etc = \"3205\"] per aprire [etc = \"5050\"].[br][br]Vuoi provare la funzione del [etc = \"7030\"]?[br]Puoi provare a misurare il mio livello di potenza.[br]Dai, prova!"
+				},
+				{
+					"@id": "109",
+					"$": "[metatag = 5]Quando hai finito di scansionare, vieni a parlarmi!"
+				},
+				{
+					"@id": "110",
+					"$": "@"
+				},
+				{
+					"@id": "111",
+					"$": "[metatag = 5]Sembra che abbia ricevuto una lettera relativa all'inizio di un allenamento speciale!"
+				},
+				{
+					"@id": "112",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "113",
+					"$": "@"
+				},
+				{
+					"@id": "114",
+					"$": "[metatag = 5]Sai cos'è questo?[br]È uno Scouter. Può essere usato per misurare il livello di potenza del tuo avversario.[br]Se il loro livello di potenza è superiore al tuo, significa che sono molto pericolosi, quindi per favore fai attenzione."
+				},
+				{
+					"@id": "115",
+					"$": "[metatag = 5]Avventuriero Lang Lang"
+				},
+				{
+					"@id": "116",
+					"$": "@"
+				},
+				{
+					"@id": "117",
+					"$": "@"
+				},
+				{
+					"@id": "118"
+				},
+				{
+					"@id": "119"
+				},
+				{
+					"@id": "120",
+					"$": "[metatag = 7]Storia generale"
+				},
+				{
+					"@id": "121",
+					"$": "[metatag = 7]Storia breve"
+				},
+				{
+					"@id": "122",
+					"$": "[metatag = 7]Performance"
+				},
+				{
+					"@id": "123",
+					"$": "[metatag = 7]Quiz"
+				},
+				{
+					"@id": "124",
+					"$": "[metatag = 7]dialogo di visita"
+				},
+				{
+					"@id": "125",
+					"$": "[metatag = 5]Ho ricevuto una lettera importante, devo controllarla subito!"
+				},
+				{
+					"@id": "126",
+					"$": "@"
+				},
+				{
+					"@id": "127",
+					"$": "@"
+				},
+				{
+					"@id": "128",
+					"$": "@"
+				},
+				{
+					"@id": "129",
+					"$": "@"
+				},
+				{
+					"@id": "130",
+					"$": "@"
+				},
+				{
+					"@id": "131",
+					"$": "@"
+				},
+				{
+					"@id": "132",
+					"$": "@"
+				},
+				{
+					"@id": "133",
+					"$": "@"
+				},
+				{
+					"@id": "134",
+					"$": "@"
+				},
+				{
+					"@id": "135",
+					"$": "@"
+				},
+				{
+					"@id": "136",
+					"$": "@"
+				},
+				{
+					"@id": "137",
+					"$": "@"
+				},
+				{
+					"@id": "138",
+					"$": "@"
+				},
+				{
+					"@id": "139",
+					"$": "@"
+				},
+				{
+					"@id": "140",
+					"$": "@"
+				},
+				{
+					"@id": "141",
+					"$": "@"
+				},
+				{
+					"@id": "142",
+					"$": "@"
+				},
+				{
+					"@id": "143",
+					"$": "@"
+				},
+				{
+					"@id": "144"
+				},
+				{
+					"@id": "145"
+				},
+				{
+					"@id": "146"
+				},
+				{
+					"@id": "147"
+				},
+				{
+					"@id": "148"
+				},
+				{
+					"@id": "149"
+				},
+				{
+					"@id": "201",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "202",
+					"$": "[metatag = 5]Non sono più debole di uno scoiattolo."
+				},
+				{
+					"@id": "203",
+					"$": "[metatag = 5]2"
+				},
+				{
+					"@id": "204",
+					"$": "[metatag = 5]Sconfiggi [mob = \"4911101\"]."
+				},
+				{
+					"@id": "205",
+					"$": "[metatag = 5]Generale"
+				},
+				{
+					"@id": "206"
+				},
+				{
+					"@id": "207",
+					"$": "[metatag = 5]Ti sei appena svegliato, non forzarti troppo."
+				},
+				{
+					"@id": "208",
+					"$": "[metatag = 5][mob = \"4911101\"]s appaiono sempre e mangiano le verdure qui alla fattoria.[br]Anche se potrei prenderli da solo e guadagnare ricompense, il loro numero non si sta riducendo molto.[br][br]Vuoi catturare alcuni [mob = \"4911101\"] per me?[br]Non forzarti troppo però. Il tuo corpo ha appena iniziato a riprendersi.[br]Cosa faresti se venissi picchiato?[br]Beh, sembri determinato quindi facciamo un patto![br]Se riesci a sconfiggere alcuni [mob = \"4911101\"], ti darò qualcosa come ricompensa."
+				},
+				{
+					"@id": "209",
+					"$": "[metatag = 5]Attenzione! È troppo pericoloso!"
+				},
+				{
+					"@id": "210"
+				},
+				{
+					"@id": "211",
+					"$": "[metatag = 5]3"
+				},
+				{
+					"@id": "212",
+					"$": "[metatag = 5]260"
+				},
+				{
+					"@id": "213"
+				},
+				{
+					"@id": "214",
+					"$": "[metatag = 5]Oh! Hai davvero catturato un [mob = \"4911101\"]![br]Sei più forte di quanto pensassi.[br]Dovrei propagare la tua impresa agli abitanti del [place = \"100101100\"]?"
+				},
+				{
+					"@id": "215",
+					"$": "[metatag = 5]Kowanga"
+				},
+				{
+					"@id": "216"
+				},
+				{
+					"@id": "217"
+				},
+				{
+					"@id": "218"
+				},
+				{
+					"@id": "219"
+				},
+				{
+					"@id": "220"
+				},
+				{
+					"@id": "221"
+				},
+				{
+					"@id": "222"
+				},
+				{
+					"@id": "223"
+				},
+				{
+					"@id": "224"
+				},
+				{
+					"@id": "225"
+				},
+				{
+					"@id": "226"
+				},
+				{
+					"@id": "227"
+				},
+				{
+					"@id": "228"
+				},
+				{
+					"@id": "229"
+				},
+				{
+					"@id": "230"
+				},
+				{
+					"@id": "231"
+				},
+				{
+					"@id": "232"
+				},
+				{
+					"@id": "233"
+				},
+				{
+					"@id": "234"
+				},
+				{
+					"@id": "235"
+				},
+				{
+					"@id": "236"
+				},
+				{
+					"@id": "237"
+				},
+				{
+					"@id": "238"
+				},
+				{
+					"@id": "239"
+				},
+				{
+					"@id": "240"
+				},
+				{
+					"@id": "241"
+				},
+				{
+					"@id": "242"
+				},
+				{
+					"@id": "243"
+				},
+				{
+					"@id": "244"
+				},
+				{
+					"@id": "245"
+				},
+				{
+					"@id": "246"
+				},
+				{
+					"@id": "247"
+				},
+				{
+					"@id": "248"
+				},
+				{
+					"@id": "249"
+				},
+				{
+					"@id": "301",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "302",
+					"$": "[metatag = 5]Vai a [place = \"100101100\"]"
+				},
+				{
+					"@id": "303",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "304",
+					"$": "[metatag = 5]Vai da [npc = \"4181101\"] a [place = \"100101100\"]."
+				},
+				{
+					"@id": "305",
+					"$": "[metatag = 5]Generale"
+				},
+				{
+					"@id": "306"
+				},
+				{
+					"@id": "307",
+					"$": "[metatag = 5]Devo dire agli abitanti del villaggio che sei sveglio."
+				},
+				{
+					"@id": "308",
+					"$": "[metatag = 5]In realtà, non sono io la persona che ti ha salvato.[br]È [npc = \"4181101\"] a [place = \"100001\"].[br]È pericoloso se vai lì da solo, ma sembra che il tuo corpo sia quasi guarito. Penso che tu possa farcela."
+				},
+				{
+					"@id": "309",
+					"$": "[metatag = 5]Trova [npc = \"4181101\"] a [place = \"100101100\"]."
+				},
+				{
+					"@id": "310"
+				},
+				{
+					"@id": "311",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "312",
+					"$": "[metatag = 5]575"
+				},
+				{
+					"@id": "313"
+				},
+				{
+					"@id": "314",
+					"$": "[metatag = 5]Il tuo corpo si è ripreso?[br][br]Sì, c'era un robot che ti ha salvato quando eri svenuto.[br]Il tuo corpo è ancora debole adesso.[br]Puoi riposarti bene qui."
+				},
+				{
+					"@id": "315",
+					"$": "@"
+				},
+				{
+					"@id": "316",
+					"$": "@"
+				},
+				{
+					"@id": "317",
+					"$": "@"
+				},
+				{
+					"@id": "318",
+					"$": "@"
+				},
+				{
+					"@id": "319",
+					"$": "@"
+				},
+				{
+					"@id": "320",
+					"$": "@"
+				},
+				{
+					"@id": "321",
+					"$": "@"
+				},
+				{
+					"@id": "322",
+					"$": "@"
+				},
+				{
+					"@id": "323",
+					"$": "@"
+				},
+				{
+					"@id": "324",
+					"$": "@"
+				},
+				{
+					"@id": "325"
+				},
+				{
+					"@id": "326"
+				},
+				{
+					"@id": "327"
+				},
+				{
+					"@id": "328"
+				},
+				{
+					"@id": "329"
+				},
+				{
+					"@id": "330"
+				},
+				{
+					"@id": "331"
+				},
+				{
+					"@id": "332"
+				},
+				{
+					"@id": "333"
+				},
+				{
+					"@id": "334"
+				},
+				{
+					"@id": "335"
+				},
+				{
+					"@id": "336"
+				},
+				{
+					"@id": "337"
+				},
+				{
+					"@id": "338"
+				},
+				{
+					"@id": "339"
+				},
+				{
+					"@id": "340"
+				},
+				{
+					"@id": "341"
+				},
+				{
+					"@id": "342"
+				},
+				{
+					"@id": "343"
+				},
+				{
+					"@id": "344"
+				},
+				{
+					"@id": "345"
+				},
+				{
+					"@id": "346"
+				},
+				{
+					"@id": "347"
+				},
+				{
+					"@id": "348"
+				},
+				{
+					"@id": "349"
+				},
+				{
+					"@id": "401",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "402",
+					"$": "[metatag = 5]Prova di Forza"
+				},
+				{
+					"@id": "403",
+					"$": "[metatag = 5]2"
+				},
+				{
+					"@id": "404",
+					"$": "[metatag = 5]Vai a ovest di [place = \"100101100\"] e affronta i [mob = \"1411101\"]."
+				},
+				{
+					"@id": "405",
+					"$": "[metatag = 5]Trama"
+				},
+				{
+					"@id": "406"
+				},
+				{
+					"@id": "407",
+					"$": "[metatag = 5]Vieni qui per un secondo, piccolo amico del robot. Esatto, tu."
+				},
+				{
+					"@id": "408",
+					"$": "[metatag = 5]Anche se sei abbastanza confuso al momento, non importa cosa succeda, puoi vivere a casa di [npc = \"5061201\"].[br][br]Hm? Vuoi tornare a casa? Non è una buona idea! È troppo pericoloso adesso![br]Tutto il villaggio è circondato da animali pericolosi, i bambini non possono uscire, assolutamente no.[br]Se vuoi davvero andartene, allora vai a sconfiggere [mob = \"1411101\"]. Se non riesci a farlo, non perdere tempo a cercare di tornare a casa."
+				},
+				{
+					"@id": "409",
+					"$": "[metatag = 5]Non esagerare, lo sai!"
+				},
+				{
+					"@id": "410"
+				},
+				{
+					"@id": "411",
+					"$": "[metatag = 5]4"
+				},
+				{
+					"@id": "412",
+					"$": "[metatag = 5]760"
+				},
+				{
+					"@id": "413"
+				},
+				{
+					"@id": "414",
+					"$": "[metatag = 5]Hehe... La tua forza è piuttosto impressionante.\n[br]Sarebbe bello se potessi rimanere qui. Devi davvero andartene?"
+				},
+				{
+					"@id": "415",
+					"$": "[metatag = 5]Bean Saibaman"
+				},
+				{
+					"@id": "416"
+				},
+				{
+					"@id": "417"
+				},
+				{
+					"@id": "418"
+				},
+				{
+					"@id": "419"
+				},
+				{
+					"@id": "420"
+				},
+				{
+					"@id": "421"
+				},
+				{
+					"@id": "422"
+				},
+				{
+					"@id": "423"
+				},
+				{
+					"@id": "424"
+				},
+				{
+					"@id": "425"
+				},
+				{
+					"@id": "426"
+				},
+				{
+					"@id": "427"
+				},
+				{
+					"@id": "428"
+				},
+				{
+					"@id": "429"
+				},
+				{
+					"@id": "430"
+				},
+				{
+					"@id": "431"
+				},
+				{
+					"@id": "432"
+				},
+				{
+					"@id": "433"
+				},
+				{
+					"@id": "434"
+				},
+				{
+					"@id": "435"
+				},
+				{
+					"@id": "436"
+				},
+				{
+					"@id": "437"
+				},
+				{
+					"@id": "438"
+				},
+				{
+					"@id": "439"
+				},
+				{
+					"@id": "440"
+				},
+				{
+					"@id": "441"
+				},
+				{
+					"@id": "442"
+				},
+				{
+					"@id": "443"
+				},
+				{
+					"@id": "444"
+				},
+				{
+					"@id": "445"
+				},
+				{
+					"@id": "446"
+				},
+				{
+					"@id": "447"
+				},
+				{
+					"@id": "448"
+				},
+				{
+					"@id": "449"
+				},
+				{
+					"@id": "501",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "502",
+					"$": "[metatag = 5]La patria in fiamme"
+				},
+				{
+					"@id": "503",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "504",
+					"$": "[metatag = 5]Vai a trovare [npc = \"8031101\"] a [place = \"100101100\"]."
+				},
+				{
+					"@id": "505",
+					"$": "[metatag = 5]Trama"
+				},
+				{
+					"@id": "506"
+				},
+				{
+					"@id": "507",
+					"$": "[metatag = 5]Non c'è altra scelta, te lo dirò."
+				},
+				{
+					"@id": "508",
+					"$": "[metatag = 5]Non avere paura, ascoltami.\n[br]In realtà... [user], il tuo villaggio è stato improvvisamente distrutto dalle fiamme.\n[br]Il robot ha detto che non è rimasta neanche una pietra. Posso capire perché vorresti tornare indietro... Ma il villaggio non c'è più.\n[br]Sai?\n[br]Onestamente, non sapevo cosa dire, quindi non ho detto niente fino ad ora. Vai a trovare [npc = \"8031101\"]. Forse il capo del villaggio ha qualcosa da spiegare."
+				},
+				{
+					"@id": "509",
+					"$": "[metatag = 5][npc = \"8031101\"] è sul lato destro della Piazza."
+				},
+				{
+					"@id": "510"
+				},
+				{
+					"@id": "511",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "512",
+					"$": "[metatag = 5]65"
+				},
+				{
+					"@id": "513"
+				},
+				{
+					"@id": "514",
+					"$": "[metatag = 5]Notizie sulla tua patria?\n[br]Certo che lo so.\n[br]Non solo il tuo villaggio, ma molti villaggi sono sotto attacco.\n[br]L'era della pace è svanita... Quindi non dovresti agire in modo impulsivo."
+				},
+				{
+					"@id": "515"
+				},
+				{
+					"@id": "516"
+				},
+				{
+					"@id": "517"
+				},
+				{
+					"@id": "518"
+				},
+				{
+					"@id": "519"
+				},
+				{
+					"@id": "520"
+				},
+				{
+					"@id": "521"
+				},
+				{
+					"@id": "522"
+				},
+				{
+					"@id": "523"
+				},
+				{
+					"@id": "524"
+				},
+				{
+					"@id": "525"
+				},
+				{
+					"@id": "526"
+				},
+				{
+					"@id": "527"
+				},
+				{
+					"@id": "528"
+				},
+				{
+					"@id": "529"
+				},
+				{
+					"@id": "530"
+				},
+				{
+					"@id": "531"
+				},
+				{
+					"@id": "532"
+				},
+				{
+					"@id": "533"
+				},
+				{
+					"@id": "534"
+				},
+				{
+					"@id": "535"
+				},
+				{
+					"@id": "536"
+				},
+				{
+					"@id": "537"
+				},
+				{
+					"@id": "538"
+				},
+				{
+					"@id": "539"
+				},
+				{
+					"@id": "540"
+				},
+				{
+					"@id": "541"
+				},
+				{
+					"@id": "542"
+				},
+				{
+					"@id": "543"
+				},
+				{
+					"@id": "544"
+				},
+				{
+					"@id": "545"
+				},
+				{
+					"@id": "546"
+				},
+				{
+					"@id": "547"
+				},
+				{
+					"@id": "548"
+				},
+				{
+					"@id": "549"
+				},
+				{
+					"@id": "601",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "602",
+					"$": "[metatag = 5][etc = \"3019\"]"
+				},
+				{
+					"@id": "603",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "604",
+					"$": "[metatag = 5]Trova [npc = \"4181101\"] per chiedere informazioni sulla formazione da guerriero."
+				},
+				{
+					"@id": "605",
+					"$": "[metatag = 5]Sistema"
+				},
+				{
+					"@id": "606"
+				},
+				{
+					"@id": "607",
+					"$": "[metatag = 5]Smettila di sognare!"
+				},
+				{
+					"@id": "608",
+					"$": "[metatag = 5]Desiderare di lasciare il villaggio è davvero folle!\n[br]Ti ho detto che quegli animali gentili sono diventati molto violenti ora.\n[br]\n[br]È tutta colpa di [etc = \"10539\"]. Quei ragazzi hanno portato via [etc = \"3024\"] dalle persone gentili, e ora il mondo esterno è pieno di pericoli. Ma non preoccuparti!\n[br]\n[br]Il nostro villaggio sta attuando la [etc = \"3019\"]. Se crescerai un po' di più, potrai allenarti in questo villaggio e poi cercare vendetta.\n[br][npc = \"4181101\"] sa cosa devi fare per diventare un guerriero, quindi vai a consultarlo."
+				},
+				{
+					"@id": "609",
+					"$": "[metatag = 5]Ahahah, allora ci sarà una persona in più..."
+				},
+				{
+					"@id": "610"
+				},
+				{
+					"@id": "611",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "612",
+					"$": "[metatag = 5]65"
+				},
+				{
+					"@id": "613"
+				},
+				{
+					"@id": "614",
+					"$": "[metatag = 5]Guerriero? Perché il capo del villaggio direbbe una cosa del genere? Con l'attuazione della [etc = \"3019\"], raccogliamo i bambini per l'educazione, ma sei ancora troppo giovane per essere un guerriero.\n[br]Se riesci a sconfiggere [mob = \"1411101\"], possiamo ripensarci..."
+				},
+				{
+					"@id": "615"
+				},
+				{
+					"@id": "616"
+				},
+				{
+					"@id": "617"
+				},
+				{
+					"@id": "618"
+				},
+				{
+					"@id": "619"
+				},
+				{
+					"@id": "620",
+					"$": "[metatag = 11]Desiderare di lasciare il villaggio è davvero folle!\n[br]Gli animali gentili sono diventati ora molto violenti.\n[br]Il pericolo è oltre l'immaginazione!\n[br]È tutto causato da [etc = \"10539\"].\n[br]Hanno portato via [etc = \"3024\"] dalle persone gentili\n[br]quindi tutto è diventato molto brutale."
+				},
+				{
+					"@id": "621",
+					"$": "[metatag = 11]Ma non preoccuparti!\n[br]Hai sentito parlare di [etc = \"3019\"]?\n[br]È la politica educativa attuata in questo villaggio.\n[br]Se crescerai un po' di più, potrai allenarti in questo villaggio e poi cercare vendetta."
+				},
+				{
+					"@id": "622",
+					"$": "[metatag = 11]Come diventare un guerriero?\n[br][npc = \"4181101\"] ne sa qualcosa,\n[br]quindi vai a controllare con lui."
+				},
+				{
+					"@id": "623"
+				},
+				{
+					"@id": "624"
+				},
+				{
+					"@id": "625"
+				},
+				{
+					"@id": "626"
+				},
+				{
+					"@id": "627"
+				},
+				{
+					"@id": "628"
+				},
+				{
+					"@id": "629"
+				},
+				{
+					"@id": "630"
+				},
+				{
+					"@id": "631"
+				},
+				{
+					"@id": "632"
+				},
+				{
+					"@id": "633"
+				},
+				{
+					"@id": "634"
+				},
+				{
+					"@id": "635"
+				},
+				{
+					"@id": "636"
+				},
+				{
+					"@id": "637"
+				},
+				{
+					"@id": "638"
+				},
+				{
+					"@id": "639"
+				},
+				{
+					"@id": "640"
+				},
+				{
+					"@id": "641"
+				},
+				{
+					"@id": "642"
+				},
+				{
+					"@id": "643"
+				},
+				{
+					"@id": "644"
+				},
+				{
+					"@id": "645"
+				},
+				{
+					"@id": "646"
+				},
+				{
+					"@id": "647"
+				},
+				{
+					"@id": "648"
+				},
+				{
+					"@id": "649"
+				},
+				{
+					"@id": "701",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "702",
+					"$": "[metatag = 5][place = \"100101100\"] Distretto commerciale 1"
+				},
+				{
+					"@id": "703",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "704",
+					"$": "[metatag = 5]Vai a trovare [npc = \"8512101\"] e salutalo."
+				},
+				{
+					"@id": "705",
+					"$": "[metatag = 5]Sistema"
+				},
+				{
+					"@id": "706",
+					"$": "@"
+				},
+				{
+					"@id": "707",
+					"$": "[metatag = 5]Sei il nuovo arrivato? Portato dal robot?"
+				},
+				{
+					"@id": "708",
+					"$": "[metatag = 5]Incredibile. Anche se ci sono molti bambini che vengono a causa del [etc = \"3019\"], nessuno è venuto come te.\n[br]\n[br]Il tuo villaggio ha anche un [etc = \"17009\"]?\n[br]Intendo [etc = \"17009\"]! Vende molti accessori bellissimi con vari effetti! Ci sono molti piccoli oggetti, dai un'occhiata quando hai tempo.\n[br]\n[br]Come ti piace il mio outfit? Il mio hobby è migliorare i beni di seconda mano.\n[br]Mi piace particolarmente creare piccoli accessori. Poiché sono necessari molti tipi di materiali, se porti gli oggetti ottenuti sconfiggendo i mostri, li scambierò con te per zeni.\n[br]Non solo io, anche il signor [npc = \"8411101\"] e il signor [npc = \"1111101\"] li compreranno da te.\n[br]Tutti sono molto interessati all'artigianato. Se hai qualcosa di cui non hai bisogno, vendimelo.\n\n[br]Hehe! Approfitta di questa opportunità per salutare per primo.\n[br]Tutti sono curiosi di sapere chi è il bambino portato dal robot.\n[br]Hai parlato con [npc = \"8512101\"]? Anche se è un po' strano, è una brava persona."
+				},
+				{
+					"@id": "709",
+					"$": "[metatag = 5]Torna di nuovo, hahaha."
+				},
+				{
+					"@id": "710",
+					"$": "@"
+				},
+				{
+					"@id": "711",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "712",
+					"$": "[metatag = 5]50"
+				},
+				{
+					"@id": "713",
+					"$": "@"
+				},
+				{
+					"@id": "714",
+					"$": "[metatag = 5]Benvenuto. Benvenuto a [npc = \"33\"]."
+				},
+				{
+					"@id": "715"
+				},
+				{
+					"@id": "716"
+				},
+				{
+					"@id": "717"
+				},
+				{
+					"@id": "718"
+				},
+				{
+					"@id": "719"
+				},
+				{
+					"@id": "720"
+				},
+				{
+					"@id": "721"
+				},
+				{
+					"@id": "722"
+				},
+				{
+					"@id": "723"
+				},
+				{
+					"@id": "724"
+				},
+				{
+					"@id": "725"
+				},
+				{
+					"@id": "726"
+				},
+				{
+					"@id": "727"
+				},
+				{
+					"@id": "728"
+				},
+				{
+					"@id": "729"
+				},
+				{
+					"@id": "730"
+				},
+				{
+					"@id": "731"
+				},
+				{
+					"@id": "732"
+				},
+				{
+					"@id": "733"
+				},
+				{
+					"@id": "734"
+				},
+				{
+					"@id": "735"
+				},
+				{
+					"@id": "736"
+				},
+				{
+					"@id": "737"
+				},
+				{
+					"@id": "738"
+				},
+				{
+					"@id": "739"
+				},
+				{
+					"@id": "740"
+				},
+				{
+					"@id": "741"
+				},
+				{
+					"@id": "742"
+				},
+				{
+					"@id": "743"
+				},
+				{
+					"@id": "744"
+				},
+				{
+					"@id": "745"
+				},
+				{
+					"@id": "746"
+				},
+				{
+					"@id": "747"
+				},
+				{
+					"@id": "748"
+				},
+				{
+					"@id": "749"
+				},
+				{
+					"@id": "801",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "802",
+					"$": "[metatag = 5][place = \"100101100\"] Distretto commerciale 2"
+				},
+				{
+					"@id": "803",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "804",
+					"$": "[metatag = 5]Vai a trovare [npc = \"8511101\"] e saluta."
+				},
+				{
+					"@id": "805",
+					"$": "[metatag = 5]Sistema"
+				},
+				{
+					"@id": "806",
+					"$": "@"
+				},
+				{
+					"@id": "807",
+					"$": "[metatag = 5]Fai buon uso di [npc = \"33\"]."
+				},
+				{
+					"@id": "808",
+					"$": "[metatag = 5]Benvenuto.\n[br]Questo è [npc = \"33\"].\n[br]Finché ti trovi in un luogo dove sono presenti i nostri colleghi, puoi teletrasportarti istantaneamente.\n[br]Tuttavia, poiché utilizziamo la memoria umana per la teletrasmissione istantanea, non possiamo portarti in luoghi in cui non sei mai stato prima. Se arrivi in un nuovo luogo, ricorda di registrarti presso il responsabile locale del teletrasporto.\n[br]È un onore incontrare [user]!\n[br]\n[br]Ma è successo qualcosa tra te e [npc = \"8511101\"]?\n[br][npc = \"8511101\"] ti sta fissando costantemente da un po' di tempo. Sembra che presto ci sarà un buco nella parte posteriore della tua testa. \n[br]Sbrigati e vai.\n[br][npc = \"8511101\"] ha davvero fatto buchi con il suo sguardo in passato. Se non vai velocemente, sarai nei guai!"
+				},
+				{
+					"@id": "809",
+					"$": "[metatag = 5]Fai buon uso di [npc = \"33\"] in futuro."
+				},
+				{
+					"@id": "810",
+					"$": "@"
+				},
+				{
+					"@id": "811",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "812",
+					"$": "[metatag = 5]50"
+				},
+				{
+					"@id": "813",
+					"$": "@"
+				},
+				{
+					"@id": "814",
+					"$": "[metatag = 5]Benvenuto. \n[br]Ero preoccupato che potresti non voltarti e finire con un buco nella schiena. Hehe."
+				},
+				{
+					"@id": "815"
+				},
+				{
+					"@id": "816"
+				},
+				{
+					"@id": "817"
+				},
+				{
+					"@id": "818"
+				},
+				{
+					"@id": "819"
+				},
+				{
+					"@id": "820"
+				},
+				{
+					"@id": "821"
+				},
+				{
+					"@id": "822"
+				},
+				{
+					"@id": "823"
+				},
+				{
+					"@id": "824"
+				},
+				{
+					"@id": "825"
+				},
+				{
+					"@id": "826"
+				},
+				{
+					"@id": "827"
+				},
+				{
+					"@id": "828"
+				},
+				{
+					"@id": "829"
+				},
+				{
+					"@id": "830"
+				},
+				{
+					"@id": "831"
+				},
+				{
+					"@id": "832"
+				},
+				{
+					"@id": "833"
+				},
+				{
+					"@id": "834"
+				},
+				{
+					"@id": "835"
+				},
+				{
+					"@id": "836"
+				},
+				{
+					"@id": "837"
+				},
+				{
+					"@id": "838"
+				},
+				{
+					"@id": "839"
+				},
+				{
+					"@id": "840"
+				},
+				{
+					"@id": "841"
+				},
+				{
+					"@id": "842"
+				},
+				{
+					"@id": "843"
+				},
+				{
+					"@id": "844"
+				},
+				{
+					"@id": "845"
+				},
+				{
+					"@id": "846"
+				},
+				{
+					"@id": "847"
+				},
+				{
+					"@id": "848"
+				},
+				{
+					"@id": "849"
+				},
+				{
+					"@id": "901",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "902",
+					"$": "[metatag = 5][place = \"100101100\"] Shopping District 3"
+				},
+				{
+					"@id": "903",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "904",
+					"$": "[metatag = 5]Vai a salutare [npc = \"5041101\"]."
+				},
+				{
+					"@id": "905",
+					"$": "[metatag = 5]Sistema"
+				},
+				{
+					"@id": "906",
+					"$": "@"
+				},
+				{
+					"@id": "907",
+					"$": "[metatag = 5]Per favore lascia qui i tuoi bagagli pesanti."
+				},
+				{
+					"@id": "908",
+					"$": "[metatag = 5]Hehe, benvenuto.\n[br]Ospite, sei tu il bambino che è stato salvato dal robot e poi è scappato? Durante il pranzo poco fa, [npc = \"7131101\"] ha parlato di molte cose.\n[br]\n[br]Offriamo servizi di magazzino ad alte prestazioni.\n[br]Applica la skill [etc = \"3052\"] di [skill = \"15200710\"], è un servizio rivoluzionario. La tecnologia di [skill = \"15200710\"] è stata portata sulla Terra da qualcuno e sviluppata in un servizio bancario per caso.[br]...ah! Sto divagando di nuovo.\n[br]\n[br]In ogni caso, puoi conservare oggetti o denaro che sono scomodi da portare nel nostro magazzino! I bagagli conservati possono essere recuperati anche in altri villaggi.\n[br]\n[br]Ma è stato davvero un robot che ti ha portato qui?\n[br]C'è anche un robot in questo villaggio. Vai a trovare [npc = \"3\"] [npc = \"5041101\"].\n[br]Forse puoi avvicinarti al robot."
+				},
+				{
+					"@id": "909",
+					"$": "[metatag = 5]Per favore usa il servizio di magazzino più spesso in futuro."
+				},
+				{
+					"@id": "910",
+					"$": "@"
+				},
+				{
+					"@id": "911",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "912",
+					"$": "[metatag = 5]50"
+				},
+				{
+					"@id": "913",
+					"$": "@"
+				},
+				{
+					"@id": "914",
+					"$": "[metatag = 5]Qui vendiamo [etc = \"7030\"], ne hai bisogno?"
+				},
+				{
+					"@id": "915"
+				},
+				{
+					"@id": "916"
+				},
+				{
+					"@id": "917"
+				},
+				{
+					"@id": "918"
+				},
+				{
+					"@id": "919"
+				},
+				{
+					"@id": "920"
+				},
+				{
+					"@id": "921"
+				},
+				{
+					"@id": "922"
+				},
+				{
+					"@id": "923"
+				},
+				{
+					"@id": "924"
+				},
+				{
+					"@id": "925"
+				},
+				{
+					"@id": "926"
+				},
+				{
+					"@id": "927"
+				},
+				{
+					"@id": "928"
+				},
+				{
+					"@id": "929"
+				},
+				{
+					"@id": "930"
+				},
+				{
+					"@id": "931"
+				},
+				{
+					"@id": "932"
+				},
+				{
+					"@id": "933"
+				},
+				{
+					"@id": "934"
+				},
+				{
+					"@id": "935"
+				},
+				{
+					"@id": "936"
+				},
+				{
+					"@id": "937"
+				},
+				{
+					"@id": "938"
+				},
+				{
+					"@id": "939"
+				},
+				{
+					"@id": "940"
+				},
+				{
+					"@id": "941"
+				},
+				{
+					"@id": "942"
+				},
+				{
+					"@id": "943"
+				},
+				{
+					"@id": "944"
+				},
+				{
+					"@id": "945"
+				},
+				{
+					"@id": "946"
+				},
+				{
+					"@id": "947"
+				},
+				{
+					"@id": "948"
+				},
+				{
+					"@id": "949"
+				},
+				{
+					"@id": "1001",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "1002",
+					"$": "[metatag = 5][place = \"100101100\"] Shopping District 4"
+				},
+				{
+					"@id": "1003",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "1004",
+					"$": "[metatag = 5]Vai e saluta [npc = \"8411101\"]."
+				},
+				{
+					"@id": "1005",
+					"$": "[metatag = 5]Sistema"
+				},
+				{
+					"@id": "1006"
+				},
+				{
+					"@id": "1007",
+					"$": "[metatag = 5]Grandi [etc = \"7030\"]... Piccoli [etc = \"7030\"]... Li vendiamo tutti..."
+				},
+				{
+					"@id": "1008",
+					"$": "[metatag = 5]Hai già un [etc = \"7030\"]? Siamo un negozio che vende [etc = \"7030\"] e [etc = \"7031\"].\n[br][etc = \"7030\"]... è uno strumento che combina la rilevazione del potere dei mostri e il senso della moda... Se aggiungi [etc = \"7031\"]... avrà nuove funzioni. Se vuoi comprare [etc = \"7030\"], assicurati di visitare il nostro negozio... Non c'è robot più elegante qui intorno a me.\n[br]Sai che devi scegliere il colore moderno usato da [npc = \"8512101\"] e [npc = \"8511101\"].\n[br]\n[br]Se non compri, vai a trovare [npc = \"8411101\"]! Scompari subito."
+				},
+				{
+					"@id": "1009",
+					"$": "[metatag = 5][etc = \"7030\"]... Cos'è... È uno strumento necessario..."
+				},
+				{
+					"@id": "1010"
+				},
+				{
+					"@id": "1011",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "1012",
+					"$": "[metatag = 5]50"
+				},
+				{
+					"@id": "1013"
+				},
+				{
+					"@id": "1014",
+					"$": "[metatag = 5]Sembri troppo piccolo per usare le armi che faccio."
+				},
+				{
+					"@id": "1015"
+				},
+				{
+					"@id": "1016"
+				},
+				{
+					"@id": "1017"
+				},
+				{
+					"@id": "1018"
+				},
+				{
+					"@id": "1019"
+				},
+				{
+					"@id": "1020"
+				},
+				{
+					"@id": "1021"
+				},
+				{
+					"@id": "1022"
+				},
+				{
+					"@id": "1023"
+				},
+				{
+					"@id": "1024"
+				},
+				{
+					"@id": "1025"
+				},
+				{
+					"@id": "1026"
+				},
+				{
+					"@id": "1027"
+				},
+				{
+					"@id": "1028"
+				},
+				{
+					"@id": "1029"
+				},
+				{
+					"@id": "1030"
+				},
+				{
+					"@id": "1031"
+				},
+				{
+					"@id": "1032"
+				},
+				{
+					"@id": "1033"
+				},
+				{
+					"@id": "1034"
+				},
+				{
+					"@id": "1035"
+				},
+				{
+					"@id": "1036"
+				},
+				{
+					"@id": "1037"
+				},
+				{
+					"@id": "1038"
+				},
+				{
+					"@id": "1039"
+				},
+				{
+					"@id": "1040"
+				},
+				{
+					"@id": "1041"
+				},
+				{
+					"@id": "1042"
+				},
+				{
+					"@id": "1043"
+				},
+				{
+					"@id": "1044"
+				},
+				{
+					"@id": "1045"
+				},
+				{
+					"@id": "1046"
+				},
+				{
+					"@id": "1047"
+				},
+				{
+					"@id": "1048"
+				},
+				{
+					"@id": "1049"
+				},
+				{
+					"@id": "1101",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "1102",
+					"$": "[metatag = 5][place = \"100101100\"] Shopping District 5"
+				},
+				{
+					"@id": "1103",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "1104",
+					"$": "[metatag = 5]Vai a trovare [npc = \"1111101\"] e salutalo."
+				},
+				{
+					"@id": "1105",
+					"$": "[metatag = 5]Sistema"
+				},
+				{
+					"@id": "1106",
+					"$": "@"
+				},
+				{
+					"@id": "1107",
+					"$": "[metatag = 5]Hai forza nelle braccia?"
+				},
+				{
+					"@id": "1108",
+					"$": "[metatag = 5]Sei tu? Il ragazzo portato dal robot.\n[br]Ho sentito dire che vuoi tornare al tuo villaggio di origine?\n[br]Allora usa le armi che ho fatto. Tutte di buona qualità e prestazioni.\n[br]\n[br]A seconda del [etc = \"6005\"], le armi utilizzate saranno diverse, presta molta attenzione a questo.\n[br]Potresti dover trovare ciò che ti si addice meglio.\n[br]\n[br]Naturalmente, alcune persone collezionano armi per interesse. Ma rispetto al signor [npc = \"8411101\"], le collezioni degli altri sono come giocattoli per bambini.\n[br]In realtà, dovresti concentrarti nell'indossare abiti adeguati dalla testa ai piedi.\n[br]\n[br]Se vuoi comprare abiti, vai a trovare [npc = \"1111101\"].\n[br]Vende abiti e armature. Questo tizio [npc = \"5041101\"] sostiene di essere all'avanguardia, facendo un gran trambusto.\n[br]Vai e convincilo."
+				},
+				{
+					"@id": "1109",
+					"$": "[metatag = 5]Se diventi più forte, ti verranno vendute molte armi potenti."
+				},
+				{
+					"@id": "1110",
+					"$": "@"
+				},
+				{
+					"@id": "1111",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "1112",
+					"$": "[metatag = 5]50"
+				},
+				{
+					"@id": "1113",
+					"$": "@"
+				},
+				{
+					"@id": "1114",
+					"$": "[metatag = 5]Qui vendiamo abiti per [etc = \"6010\"] e [etc = \"6011\"].\n[br]Purtroppo, gli abiti per [etc = \"6012\"] sono esauriti.\n[br]\n[br]Presentiamo abiti che si abbinano al [etc = \"6005\"] del cliente.\n[br]Anche se puoi indossare abiti non del tuo [etc = \"6005\"], è più efficace indossare abiti aderenti.\n[br]Naturalmente, gli stili sono gli ultimi trend.\n[br]\n[br]Inoltre, le armature vengono vendute in set di \"parte superiore\", \"parte inferiore\" e \"scarpe\".\n[br]Se abbinati alla stessa serie, non solo hanno un bell'aspetto, ma l'effetto è raddoppiato.\n[br]Assicurati di provarlo.\n[br]\n[br]Hai visitato altri negozi?\n[br]Oh, ne hai visitati parecchi.\n[br]Hai visitato tutti i negozi del villaggio? Assicurati di non dimenticare la posizione di ciascun negozio."
+				},
+				{
+					"@id": "1115"
+				},
+				{
+					"@id": "1116"
+				},
+				{
+					"@id": "1117"
+				},
+				{
+					"@id": "1118"
+				},
+				{
+					"@id": "1119"
+				},
+				{
+					"@id": "1120"
+				},
+				{
+					"@id": "1121"
+				},
+				{
+					"@id": "1122"
+				},
+				{
+					"@id": "1123"
+				},
+				{
+					"@id": "1124"
+				},
+				{
+					"@id": "1125"
+				},
+				{
+					"@id": "1126"
+				},
+				{
+					"@id": "1127"
+				},
+				{
+					"@id": "1128"
+				},
+				{
+					"@id": "1129"
+				},
+				{
+					"@id": "1130"
+				},
+				{
+					"@id": "1131"
+				},
+				{
+					"@id": "1132"
+				},
+				{
+					"@id": "1133"
+				},
+				{
+					"@id": "1134"
+				},
+				{
+					"@id": "1135"
+				},
+				{
+					"@id": "1136"
+				},
+				{
+					"@id": "1137"
+				},
+				{
+					"@id": "1138"
+				},
+				{
+					"@id": "1139"
+				},
+				{
+					"@id": "1140"
+				},
+				{
+					"@id": "1141"
+				},
+				{
+					"@id": "1142"
+				},
+				{
+					"@id": "1143"
+				},
+				{
+					"@id": "1144"
+				},
+				{
+					"@id": "1145"
+				},
+				{
+					"@id": "1146"
+				},
+				{
+					"@id": "1147"
+				},
+				{
+					"@id": "1148"
+				},
+				{
+					"@id": "1149"
+				},
+				{
+					"@id": "1201",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "1202",
+					"$": "[metatag = 5]Bambino Speciale"
+				},
+				{
+					"@id": "1203",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "1204",
+					"$": "[metatag = 5]Vai a trovare [npc = \"3183103\"] e chiedigli di allenarti."
+				},
+				{
+					"@id": "1205",
+					"$": "[metatag = 5]Trama"
+				},
+				{
+					"@id": "1206"
+				},
+				{
+					"@id": "1207",
+					"$": "[metatag = 5]Vieni qui per un minuto. Bambini?"
+				},
+				{
+					"@id": "1208",
+					"$": "[metatag = 5][user], cosa stai facendo? Cos'è quella pietra circolare?[br]Ah, hai avuto questa pietra per molto tempo. Perché non ci dici?[br]Forse tu sei il bambino che qualcuno sta cercando.[br][br]Hai detto che vuoi diventare un guerriero, giusto? Originariamente, era impossibile per te diventare un guerriero, ma forse tu sei un'eccezione.[br][br]È meglio vedere [npc = \"3183103\"].[br]Se vuoi vedere l'Avventuriero Gil, dovresti uscire dall'ingresso di [place = \"100101100\"], girare a sinistra alla prima strada a bivio e poi andare avanti. Quando appare la seconda strada a bivio, sali sul pendio destro.[br]Infine, è meglio registrare [object = \"1000\"] prima di andare."
+				},
+				{
+					"@id": "1209",
+					"$": "[metatag = 5]È fortunato che tu ti sia ripreso."
+				},
+				{
+					"@id": "1210"
+				},
+				{
+					"@id": "1211",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "1212",
+					"$": "[metatag = 5]580"
+				},
+				{
+					"@id": "1213"
+				},
+				{
+					"@id": "1214",
+					"$": "[metatag = 5]Eh? Devi essere il figlio di [npc = \"4181101\"].[br]Non sembri diverso dagli altri."
+				},
+				{
+					"@id": "1215"
+				},
+				{
+					"@id": "1216"
+				},
+				{
+					"@id": "1217"
+				},
+				{
+					"@id": "1218"
+				},
+				{
+					"@id": "1219"
+				},
+				{
+					"@id": "1220"
+				},
+				{
+					"@id": "1221"
+				},
+				{
+					"@id": "1222"
+				},
+				{
+					"@id": "1223"
+				},
+				{
+					"@id": "1224"
+				},
+				{
+					"@id": "1225"
+				},
+				{
+					"@id": "1226"
+				},
+				{
+					"@id": "1227"
+				},
+				{
+					"@id": "1228"
+				},
+				{
+					"@id": "1229"
+				},
+				{
+					"@id": "1230"
+				},
+				{
+					"@id": "1231"
+				},
+				{
+					"@id": "1232"
+				},
+				{
+					"@id": "1233"
+				},
+				{
+					"@id": "1234"
+				},
+				{
+					"@id": "1235"
+				},
+				{
+					"@id": "1236"
+				},
+				{
+					"@id": "1237"
+				},
+				{
+					"@id": "1238"
+				},
+				{
+					"@id": "1239"
+				},
+				{
+					"@id": "1240"
+				},
+				{
+					"@id": "1241"
+				},
+				{
+					"@id": "1242"
+				},
+				{
+					"@id": "1243"
+				},
+				{
+					"@id": "1244"
+				},
+				{
+					"@id": "1245"
+				},
+				{
+					"@id": "1246"
+				},
+				{
+					"@id": "1247"
+				},
+				{
+					"@id": "1248"
+				},
+				{
+					"@id": "1249"
+				},
+				{
+					"@id": "1301",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "1302",
+					"$": "[metatag = 5]Non sottovalutarmi."
+				},
+				{
+					"@id": "1303",
+					"$": "[metatag = 5]2"
+				},
+				{
+					"@id": "1304",
+					"$": "[metatag = 5]Combatti [mob = \"4912101\"] e torna da [npc = \"3183103\"]."
+				},
+				{
+					"@id": "1305",
+					"$": "[metatag = 5]Generale"
+				},
+				{
+					"@id": "1306"
+				},
+				{
+					"@id": "1307",
+					"$": "[metatag = 5]Non è troppo presto per allenarsi?"
+				},
+				{
+					"@id": "1308",
+					"$": "[metatag = 5]Hai detto che vuoi iniziare il tuo allenamento ora? Ah! Hai un sogno favoloso, ma sei solo un bambino.[br][br]Oh, hai fretta perché vuoi tornare al tuo villaggio?[br]Va bene, [mob = \"4912101\"] è uno scoiattolo che vive nella pianura a sud-ovest, ti mangerebbe con un solo morso.[br][br]Quindi se riuscissi a catturare un paio di [mob = \"4912101\"], forse ti aiuterò e ti chiamerò un genio."
+				},
+				{
+					"@id": "1309",
+					"$": "[metatag = 5]Eh? Vuoi davvero andare lì? Stavo solo scherzando! Oh no, è un disastro!"
+				},
+				{
+					"@id": "1310"
+				},
+				{
+					"@id": "1311",
+					"$": "[metatag = 5]5"
+				},
+				{
+					"@id": "1312",
+					"$": "[metatag = 5]400"
+				},
+				{
+					"@id": "1313"
+				},
+				{
+					"@id": "1314",
+					"$": "[metatag = 5]Ehi, sei davvero tornato? Non ci posso credere![br]Sei davvero un bambino?[br]Una maledizione ti tiene bambino, giusto?[br]Wow... forse puoi davvero diventare un guerriero!"
+				},
+				{
+					"@id": "1315",
+					"$": "[metatag = 5]jerboa"
+				},
+				{
+					"@id": "1316"
+				},
+				{
+					"@id": "1317"
+				},
+				{
+					"@id": "1318"
+				},
+				{
+					"@id": "1319"
+				},
+				{
+					"@id": "1320"
+				},
+				{
+					"@id": "1321"
+				},
+				{
+					"@id": "1322"
+				},
+				{
+					"@id": "1323"
+				},
+				{
+					"@id": "1324"
+				},
+				{
+					"@id": "1325"
+				},
+				{
+					"@id": "1326"
+				},
+				{
+					"@id": "1327"
+				},
+				{
+					"@id": "1328"
+				},
+				{
+					"@id": "1329"
+				},
+				{
+					"@id": "1330"
+				},
+				{
+					"@id": "1331"
+				},
+				{
+					"@id": "1332"
+				},
+				{
+					"@id": "1333"
+				},
+				{
+					"@id": "1334"
+				},
+				{
+					"@id": "1335"
+				},
+				{
+					"@id": "1336"
+				},
+				{
+					"@id": "1337"
+				},
+				{
+					"@id": "1338"
+				},
+				{
+					"@id": "1339"
+				},
+				{
+					"@id": "1340"
+				},
+				{
+					"@id": "1341"
+				},
+				{
+					"@id": "1342"
+				},
+				{
+					"@id": "1343"
+				},
+				{
+					"@id": "1344"
+				},
+				{
+					"@id": "1345"
+				},
+				{
+					"@id": "1346"
+				},
+				{
+					"@id": "1347"
+				},
+				{
+					"@id": "1348"
+				},
+				{
+					"@id": "1349"
+				},
+				{
+					"@id": "1401",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "1402",
+					"$": "[metatag = 5]È pericoloso là fuori."
+				},
+				{
+					"@id": "1403",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "1404",
+					"$": "[metatag = 5]Trova [npc = \"3183103\"] vicino a [npc = \"5591202\"] e scortalo con attenzione."
+				},
+				{
+					"@id": "1405",
+					"$": "[metatag = 5]Generale"
+				},
+				{
+					"@id": "1406"
+				},
+				{
+					"@id": "1407",
+					"$": "[metatag = 5]Non ti conosco. Chi sei?"
+				},
+				{
+					"@id": "1408",
+					"$": "[metatag = 5]Ehi, ragazzo, perché sei qui?[br]Ti stai allenando perché vuoi tornare al tuo villaggio?[br]Ma non dovresti essere qui perché di recente c'è stato un rapimento in questa zona. Sono stati rapiti diversi bambini.[br][npc = \"5591202\"] è stato quasi rapito l'ultima volta, quindi mi sono travestito da poliziotto per aiutare.[br]Dovresti prendere il [item = \"189910\"] quando esci perché [item = \"189910\"] può trasportarti all'[object = \"1000\"] che hai registrato l'ultima volta.[br][object = \"1000\"] è stato creato dal nostro protettore.[br]Devi provarlo se ce l'hai.[br]Se incontri [npc = \"5591202\"], devi chiedergli di seguire ciò che gli ho detto di fare."
+				},
+				{
+					"@id": "1409",
+					"$": "[metatag = 5]Sbrigati e torna indietro. I bambini sarebbero un ostacolo qui."
+				},
+				{
+					"@id": "1410"
+				},
+				{
+					"@id": "1411",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "1412",
+					"$": "[metatag = 5]180"
+				},
+				{
+					"@id": "1413"
+				},
+				{
+					"@id": "1414",
+					"$": "[metatag = 5][npc = \"5312101\"] è molto rompiscatole.[br]Come mai porti così tanti [item = \"189910\"] con te?[br]È perché sei stato quasi rapito da qualcuno?[br]Se il tuo [etc = \"14045\"] è pieno, non puoi metterci altre cose.[br]Puoi prendere questo se è necessario.[br][br]Tuttavia, non devi muoverti quando stai usando [item = \"189910\"][br]Altrimenti, la trasmissione verrà annullata."
+				},
+				{
+					"@id": "1415"
+				},
+				{
+					"@id": "1416"
+				},
+				{
+					"@id": "1417"
+				},
+				{
+					"@id": "1418"
+				},
+				{
+					"@id": "1419"
+				},
+				{
+					"@id": "1420"
+				},
+				{
+					"@id": "1421"
+				},
+				{
+					"@id": "1422"
+				},
+				{
+					"@id": "1423"
+				},
+				{
+					"@id": "1424"
+				},
+				{
+					"@id": "1425"
+				},
+				{
+					"@id": "1426"
+				},
+				{
+					"@id": "1427"
+				},
+				{
+					"@id": "1428"
+				},
+				{
+					"@id": "1429"
+				},
+				{
+					"@id": "1430"
+				},
+				{
+					"@id": "1431"
+				},
+				{
+					"@id": "1432"
+				},
+				{
+					"@id": "1433"
+				},
+				{
+					"@id": "1434"
+				},
+				{
+					"@id": "1435"
+				},
+				{
+					"@id": "1436"
+				},
+				{
+					"@id": "1437"
+				},
+				{
+					"@id": "1438"
+				},
+				{
+					"@id": "1439"
+				},
+				{
+					"@id": "1440"
+				},
+				{
+					"@id": "1441"
+				},
+				{
+					"@id": "1442"
+				},
+				{
+					"@id": "1443"
+				},
+				{
+					"@id": "1444"
+				},
+				{
+					"@id": "1445"
+				},
+				{
+					"@id": "1446"
+				},
+				{
+					"@id": "1447"
+				},
+				{
+					"@id": "1448"
+				},
+				{
+					"@id": "1449"
+				},
+				{
+					"@id": "1501",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "1502",
+					"$": "[metatag = 5]Dirottatori con pantaloni rossi"
+				},
+				{
+					"@id": "1503",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "1504",
+					"$": "[metatag = 5]Trova [npc = \"8031101\"] in [place = \"100101100\"]."
+				},
+				{
+					"@id": "1505",
+					"$": "[metatag = 5]Trama"
+				},
+				{
+					"@id": "1506"
+				},
+				{
+					"@id": "1507",
+					"$": "[metatag = 5]Gli adulti rompono troppo."
+				},
+				{
+					"@id": "1508",
+					"$": "[metatag = 5]È vero.[br]Sono appena uscito a fare jogging fuori dal villaggio, e improvvisamente c'erano degli animali strani.[br][br]Indossavano tutti una divisa con pantaloni rossi, erano molto disgustosi.[br]Poi hanno cercato di prendermi, fortunatamente sono scappato velocemente.[br]Ci sono molti bambini scomparsi di recente, quindi credo che quei pantaloni rossi siano i criminali. Vai e trova [npc = \"8031101\"]."
+				},
+				{
+					"@id": "1509",
+					"$": "[Metatag = 5]Mi chiedi di venire con te? Neanche per sogno!"
+				},
+				{
+					"@id": "1510"
+				},
+				{
+					"@id": "1511",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "1512",
+					"$": "[metatag = 5]580"
+				},
+				{
+					"@id": "1513"
+				},
+				{
+					"@id": "1514",
+					"$": "[metatag = 5]Sì, ne ho sentito parlare.[br]Ho notato che sempre più pantaloni rossi sono apparsi vicino al villaggio. Sono loro i rapitori?"
+				},
+				{
+					"@id": "1515"
+				},
+				{
+					"@id": "1516"
+				},
+				{
+					"@id": "1517"
+				},
+				{
+					"@id": "1518"
+				},
+				{
+					"@id": "1519"
+				},
+				{
+					"@id": "1520"
+				},
+				{
+					"@id": "1521"
+				},
+				{
+					"@id": "1522"
+				},
+				{
+					"@id": "1523"
+				},
+				{
+					"@id": "1524"
+				},
+				{
+					"@id": "1525"
+				},
+				{
+					"@id": "1526"
+				},
+				{
+					"@id": "1527"
+				},
+				{
+					"@id": "1528"
+				},
+				{
+					"@id": "1529"
+				},
+				{
+					"@id": "1530"
+				},
+				{
+					"@id": "1531"
+				},
+				{
+					"@id": "1532"
+				},
+				{
+					"@id": "1533"
+				},
+				{
+					"@id": "1534"
+				},
+				{
+					"@id": "1535"
+				},
+				{
+					"@id": "1536"
+				},
+				{
+					"@id": "1537"
+				},
+				{
+					"@id": "1538"
+				},
+				{
+					"@id": "1539"
+				},
+				{
+					"@id": "1540"
+				},
+				{
+					"@id": "1541"
+				},
+				{
+					"@id": "1542"
+				},
+				{
+					"@id": "1543"
+				},
+				{
+					"@id": "1544"
+				},
+				{
+					"@id": "1545"
+				},
+				{
+					"@id": "1546"
+				},
+				{
+					"@id": "1547"
+				},
+				{
+					"@id": "1548"
+				},
+				{
+					"@id": "1549"
+				},
+				{
+					"@id": "1601",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "1602",
+					"$": "[metatag = 5]Non puoi tornare indietro dopo!"
+				},
+				{
+					"@id": "1603",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "1604",
+					"$": "[metatag = 5]Vai a cercare [npc = \"3183103\"]."
+				},
+				{
+					"@id": "1605",
+					"$": "[metatag = 5]Trama"
+				},
+				{
+					"@id": "1606"
+				},
+				{
+					"@id": "1607",
+					"$": "[metatag = 5]ha chiamato questo bambino per andare...."
+				},
+				{
+					"@id": "1608",
+					"$": "[metatag = 5]Sei familiare con questo villaggio ora?[br]Posso vedere che sei un bambino talentuoso basato addestramento nel corso del tempo.[br][place = \"100101100\"] è un luogo pacifico originariamente, ma l'apparizione dei pantaloni rossi ha cambiato tutto. Le feste di [etc = \"10539\"] hanno rubato molti [etc = \"3024\"].[br][br]Quindi abbiamo bisogno di più bambini come te.[br][etc = \"3019\"] può aiutarti a diventare più forte, oltre a darti il potere per la vendetta.[br]Quindi devi allenarti seriamente, puoi stabilire la reputazione di [place = \"100101100\"] se sarai famoso in futuro.[br][br]Quindi, per favore, trova [npc = \"3183103\"] ora.[br]È sulla massaia fuori dal villaggio.[br]Ha detto che voleva incontrarti e darti alcuni beni. Perché ti ho detto questo così tardi?[br]Perché sono più importante!"
+				},
+				{
+					"@id": "1609",
+					"$": "[Metatag = 5]Davvero scortese, ahem."
+				},
+				{
+					"@id": "1610"
+				},
+				{
+					"@id": "1611",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "1612"
+				},
+				{
+					"@id": "1613"
+				},
+				{
+					"@id": "1614",
+					"$": "[metatag = 5]Perché sei tornato così tardi?[br]Non dovresti essere pigro se vuoi essere un vero guerriero.[br>Ti ricordi che ho promesso di darti un regalo se potessi diventare un guerriero?[br]Prendi questi. [item = \"180110\"] e [item = \"180210\"] possono aiutarti nel tuo allenamento.[br>Ricorda di leggere le istruzioni prima di usarli."
+				},
+				{
+					"@id": "1615"
+				},
+				{
+					"@id": "1616"
+				},
+				{
+					"@id": "1617"
+				},
+				{
+					"@id": "1618"
+				},
+				{
+					"@id": "1619"
+				},
+				{
+					"@id": "1620"
+				},
+				{
+					"@id": "1621"
+				},
+				{
+					"@id": "1622"
+				},
+				{
+					"@id": "1623"
+				},
+				{
+					"@id": "1624"
+				},
+				{
+					"@id": "1625"
+				},
+				{
+					"@id": "1626"
+				},
+				{
+					"@id": "1627"
+				},
+				{
+					"@id": "1628"
+				},
+				{
+					"@id": "1629"
+				},
+				{
+					"@id": "1630"
+				},
+				{
+					"@id": "1631"
+				},
+				{
+					"@id": "1632"
+				},
+				{
+					"@id": "1633"
+				},
+				{
+					"@id": "1634"
+				},
+				{
+					"@id": "1635"
+				},
+				{
+					"@id": "1636"
+				},
+				{
+					"@id": "1637"
+				},
+				{
+					"@id": "1638"
+				},
+				{
+					"@id": "1639"
+				},
+				{
+					"@id": "1640"
+				},
+				{
+					"@id": "1641"
+				},
+				{
+					"@id": "1642"
+				},
+				{
+					"@id": "1643"
+				},
+				{
+					"@id": "1644"
+				},
+				{
+					"@id": "1645"
+				},
+				{
+					"@id": "1646"
+				},
+				{
+					"@id": "1647"
+				},
+				{
+					"@id": "1648"
+				},
+				{
+					"@id": "1649"
+				},
+				{
+					"@id": "1701",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "1702",
+					"$": "[metatag = 5]Dov'è [npc = \"2413101\"]?"
+				},
+				{
+					"@id": "1703",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "1704",
+					"$": "[metatag = 5]Vai e parla con [npc = \"2413101\"]."
+				},
+				{
+					"@id": "1705",
+					"$": "[metatag = 5]Trama"
+				},
+				{
+					"@id": "1706"
+				},
+				{
+					"@id": "1707",
+					"$": "[metatag = 5][user], dove stai andando?"
+				},
+				{
+					"@id": "1708",
+					"$": "[metatag = 5][user], sei familiare con questo villaggio ora?[br]Vai e trova il robot chiamato [npc = \"2413101\"] vicino all'ingresso del villaggio.[br][br]Era così preoccupato per te, sembra anche che conosca la persona che ha attaccato la tua città natale.[br>Forse puoi ottenere informazioni utili da lui."
+				},
+				{
+					"@id": "1709",
+					"$": "[metatag = 5]dovresti essere in grado di sentire dal robot."
+				},
+				{
+					"@id": "1710"
+				},
+				{
+					"@id": "1711",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "1712",
+					"$": "[metatag = 5]70"
+				},
+				{
+					"@id": "1713"
+				},
+				{
+					"@id": "1714",
+					"$": "[metatag = 5]Ciao ... sono contento che ti sei svegliato ... [user].[br]Sei stato trasportato in [etc = \"3023\"] ... e ... ti ho portato qui...[br]Ora ... sembri bene.[br][br]È un ... miracolo ... che tu sia tornato ... in vita.[br]Non abbiamo ... tempo ... da perdere ... ascolta. C'era una crepa ... nel tempo e nello spazio ... con l'ingresso di un altro tempo e spazio.[br]Il che non è ... normale ... da quella crepa ... persone di ... altri tempi ... sono venute qui ... inclusa te ... Ora non c'è ... modo di tornare al loro ... tempo originale.[br][br]Alcuni ... invasori sono venuti ... ma per ora ... non rappresentano una minaccia ... per le persone.[br]... Sono in qualche modo ... collegati a ... [etc = \"10539\"]... Dobbiamo ... scoprire chi è [etc = \"10539\"] ... Anche il personale ... sta cercando di ... risolvere ... questo problema.[br]Ma abbiamo bisogno di più ... Aiuto ... Sarebbe bello ... se tu ... potessi aiutare forse?[br][br]o..no .. ehhh ....[br][br]Quindi aiuterai...."
+				},
+				{
+					"@id": "1715"
+				},
+				{
+					"@id": "1716"
+				},
+				{
+					"@id": "1717"
+				},
+				{
+					"@id": "1718"
+				},
+				{
+					"@id": "1719"
+				},
+				{
+					"@id": "1720"
+				},
+				{
+					"@id": "1721"
+				},
+				{
+					"@id": "1722"
+				},
+				{
+					"@id": "1723"
+				},
+				{
+					"@id": "1724"
+				},
+				{
+					"@id": "1725"
+				},
+				{
+					"@id": "1726"
+				},
+				{
+					"@id": "1727"
+				},
+				{
+					"@id": "1728"
+				},
+				{
+					"@id": "1729"
+				},
+				{
+					"@id": "1730"
+				},
+				{
+					"@id": "1731"
+				},
+				{
+					"@id": "1732"
+				},
+				{
+					"@id": "1733"
+				},
+				{
+					"@id": "1734"
+				},
+				{
+					"@id": "1735"
+				},
+				{
+					"@id": "1736"
+				},
+				{
+					"@id": "1737"
+				},
+				{
+					"@id": "1738"
+				},
+				{
+					"@id": "1739"
+				},
+				{
+					"@id": "1740"
+				},
+				{
+					"@id": "1741"
+				},
+				{
+					"@id": "1742"
+				},
+				{
+					"@id": "1743"
+				},
+				{
+					"@id": "1744"
+				},
+				{
+					"@id": "1745"
+				},
+				{
+					"@id": "1746"
+				},
+				{
+					"@id": "1747"
+				},
+				{
+					"@id": "1748"
+				},
+				{
+					"@id": "1749"
+				},
+				{
+					"@id": "1801",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "1802",
+					"$": "[metatag = 5]Storia del robot"
+				},
+				{
+					"@id": "1803",
+					"$": "[metatag = 5]1"
+				},
+				{
+					"@id": "1804",
+					"$": "[metatag = 5]Vai da [npc = \"5061201\"]."
+				},
+				{
+					"@id": "1805",
+					"$": "[metatag = 5]Trama"
+				},
+				{
+					"@id": "1806"
+				},
+				{
+					"@id": "1807",
+					"$": "[metatag = 5][etc = \"3023\"]... Vuoi scoprire di più?"
+				},
+				{
+					"@id": "1808",
+					"$": "[metatag = 5][etc = \"3023\"] ti porta all'ingresso di un altro tempo e spazio.[br]Alcune persone hanno viaggiato attraverso di esso e ora sono bloccate qui e non hanno modo di tornare al mondo originale.[br][br]Una persona misteriosa è anche arrivata qui. Alcuni dicono che è legata a [etc = \"10539\"]. Stiamo ancora indagando.[br]Anche se con il tuo aiuto il progresso si accelererà un po'. Via, fammi vedere cosa hai![br]Ah, è un [etc = \"5002\"]? No, non può essere..[br][br]È una sorta di pietra?[br]Comunque, tornando in tema, vai a trovare [npc = \"5061201\"]."
+				},
+				{
+					"@id": "1809",
+					"$": "[metatag = 5][npc = \"5061201\"] si trova su una piccola collina sopra la fattoria."
+				},
+				{
+					"@id": "1810"
+				},
+				{
+					"@id": "1811",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "1812",
+					"$": "[metatag = 5]580"
+				},
+				{
+					"@id": "1813"
+				},
+				{
+					"@id": "1814",
+					"$": "[metatag = 5]Ah HA! Dici di avere la pietra?[br]Io non sono riuscito a trovarla.[br]Ho sentito dire che [npc = \"4181101\"] la stava cercando.[br][br]Questo [questItem = \"424\"] sembra guardare rosso, eh?[br]Anche altre persone la stavano cercando.[br]Penso che fossero i \"Pantaloni Rossi\"."
+				},
+				{
+					"@id": "1815"
+				},
+				{
+					"@id": "1816"
+				},
+				{
+					"@id": "1817"
+				},
+				{
+					"@id": "1818"
+				},
+				{
+					"@id": "1819"
+				},
+				{
+					"@id": "1820",
+					"$": "[metatag = 11]Attraverso [etc = \"3023\"] puoi... visitare l'... altro... ingresso del tempo e dello spazio. Il tempo qui... cambierà a malapena... Ma se... il carburante si esaurisce[br]... Non c'è modo per le... persone... di tornare... al loro mondo originale."
+				},
+				{
+					"@id": "1821",
+					"$": "[metatag = 11]Attraverso le... crepe... Altri tempi... piccoli bambini... come te sono... passati attraverso.[br]Inoltre... alcuni sono legati a... [etc = \"10539\"].[br]Stiamo... indagando... chi sia... ma... non possiamo fare... molti progressi..."
+				},
+				{
+					"@id": "1822",
+					"$": "[Metatag = 11]le tue... mani... intorno... alla pietra... poi... fammi vedere....[br]sembra avere... prima... [etc = \"5002\"] di... sensazione.[br]se non sei attento... lui... potrebbe... portare... a fare. Non importa che tipo di... come... ... ... con... il... il... il passato non è lo stesso."
+				},
+				{
+					"@id": "1823",
+					"$": "[metatag = 11]È... quella... la pietra?[br]Comunque vai a vedere... [npc = \"5061201\"]... e... parla con... lui."
+				},
+				{
+					"@id": "1824"
+				},
+				{
+					"@id": "1825"
+				},
+				{
+					"@id": "1826"
+				},
+				{
+					"@id": "1827"
+				},
+				{
+					"@id": "1828"
+				},
+				{
+					"@id": "1829"
+				},
+				{
+					"@id": "1830"
+				},
+				{
+					"@id": "1831"
+				},
+				{
+					"@id": "1832"
+				},
+				{
+					"@id": "1833"
+				},
+				{
+					"@id": "1834"
+				},
+				{
+					"@id": "1835"
+				},
+				{
+					"@id": "1836"
+				},
+				{
+					"@id": "1837"
+				},
+				{
+					"@id": "1838"
+				},
+				{
+					"@id": "1839"
+				},
+				{
+					"@id": "1840"
+				},
+				{
+					"@id": "1841"
+				},
+				{
+					"@id": "1842"
+				},
+				{
+					"@id": "1843"
+				},
+				{
+					"@id": "1844"
+				},
+				{
+					"@id": "1845"
+				},
+				{
+					"@id": "1846"
+				},
+				{
+					"@id": "1847"
+				},
+				{
+					"@id": "1848"
+				},
+				{
+					"@id": "1849"
+				},
+				{
+					"@id": "1901",
+					"$": "[metatag = 5][place = \"100101000\"]"
+				},
+				{
+					"@id": "1902",
+					"$": "[metatag = 5]Introduzione del guerriero"
+				},
+				{
+					"@id": "1903",
+					"$": "[metatag = 5]2"
+				},
+				{
+					"@id": "1904",
+					"$": "[metatag = 5]Sconfiggi [mob = \"4911104\"]."
+				},
+				{
+					"@id": "1905",
+					"$": "[metatag = 5]Generale"
+				},
+				{
+					"@id": "1906",
+					"$": "@"
+				},
+				{
+					"@id": "1907",
+					"$": "[metatag = 5]Bambino, vieni qui."
+				},
+				{
+					"@id": "1908",
+					"$": "[metatag = 5]Hai [questItem = \"424\"]? \n[br]Fammi dare un'occhiata. Questa pietra sembra avere un potere misterioso.\n[br]No, no, non intendo che tu me la dia. Deve essere qualcosa di prezioso anche per te. \n[br]\n[br]Non ti ho chiamato qui per quella ragione.\n[br]Ho sentito dire che hai sconfitto le bestie vicino a [place = \"100101100\"]. È difficile anche per gli adulti. Hai fatto davvero bene.\n[br]\n[br]Vuoi ancora vendicarti di coloro che hanno attaccato il tuo villaggio, giusto?\n[br]Se vuoi diventare un vero guerriero, ti permetterò di...\n[br]Cosa ne dici di provare a sconfiggere [mob = \"4911104\"] per primo?"
+				},
+				{
+					"@id": "1909",
+					"$": "[metatag = 5]È molto spaventoso."
+				},
+				{
+					"@id": "1910",
+					"$": "@"
+				},
+				{
+					"@id": "1911",
+					"$": "[metatag = 5]0"
+				},
+				{
+					"@id": "1912",
+					"$": "[metatag = 5]1230"
+				},
+				{
+					"@id": "1913",
+					"$": "@"
+				},
+				{
+					"@id": "1914",
+					"$": "[metatag = 5]Hai sconfitto [mob = \"4911104\"].\n[br]Bene, ora [user] è un vero guerriero. Cercare vendetta non è una cosa sbagliata, ma non essere troppo fissato su di essa.\n[br]\n[br]Impegna-te a migliorare le tue abilità e affinare la tua mente per proteggere [place = \"100101100\"], e diventa un eroe che protegge le persone buone.\n[br]\n[br][user], ben fatto!\n[br]Ora soddisfi i requisiti di base. Congratulazioni!"
+				},
+				{
+					"@id": "1915",
+					"$": "[metatag = 5]Grande Kowanga"
+				},
+				{
+					"@id": "1916"
+				},
+				{
+					"@id": "1917"
+				},
+				{
+					"@id": "1918"
+				},
+				{
+					"@id": "1919"
+				},
+				{
+					"@id": "1920"
+				},
+				{
+					"@id": "1921"
+				},
+				{
+					"@id": "1922"
+				},
+				{
+					"@id": "1923"
+				},
+				{
+					"@id": "1924"
+				},
+				{
+					"@id": "1925"
+				},
+				{
+					"@id": "1926"
+				},
+				{
+					"@id": "1927"
+				},
+				{
+					"@id": "1928"
+				},
+				{
+					"@id": "1929"
+				},
+				{
+					"@id": "1930"
+				},
+				{
+					"@id": "1931"
+				},
+				{
+					"@id": "1932"
+				},
+				{
+					"@id": "1933"
+				},
+				{
+					"@id": "1934"
+				},
+				{
+					"@id": "1935"
+				},
+				{
+					"@id": "1936"
+				},
+				{
+					"@id": "1937"
+				},
+				{
+					"@id": "1938"
+				},
+				{
+					"@id": "1939"
+				},
+				{
+					"@id": "1940"
+				},
+				{
+					"@id": "1941"
+				},
+				{
+					"@id": "1942"
+				},
+				{
+					"@id": "1943"
+				},
+				{
+					"@id": "1944"
+				},
+				{
+					"@id": "1945"
+				},
+				{
+					"@id": "1946"
+				},
+				{
+					"@id": "1947"
+				},
+				{
+					"@id": "1948"
+				},
+				{
+					"@id": "1949"
+				}
+			]
+		}
+	}
 }
